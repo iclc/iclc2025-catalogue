@@ -1,0 +1,6 @@
+data/secret
+*~
+\#*
+import/*.csv
+import/output/**
+output/**
