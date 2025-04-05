@@ -591,8 +591,8 @@ def content_for_event(item):
             venue_string = f"{venue_string} ({item['venue_address']})"
 
     tickets_string = ""
-    # if item.get('tickets_url'):
-    #    tickets_string = f"<br><br><strong><a href='{item['tickets_url']}'>Tickets</strong></a>"
+    if item.get('tickets_url'):
+        tickets_string = f"<br><br><strong>Find tickets <a href='{item['tickets_url']}'>here</strong>!</a>"
 
     chair_string = ""
     if item.get('chair'):
