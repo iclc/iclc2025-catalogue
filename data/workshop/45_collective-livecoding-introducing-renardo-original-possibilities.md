@@ -12,11 +12,9 @@ contributors:
 
 # $PROGRAM_NOTE
 
-This workshop propose to livecode together by group of 3-4 people using Renardo
-(FoxDot fork) and flok online editor. It will be a gentle enough introduction to
-Renardo but will also present new livecoding possibilites in original directions
-(DAW livecoding, Python+SCLang livecoding and metaprogramming
-https://eliegavoty.xyz/docs/new-renardo-features).
+In this workshop, we'll livecode together in groups of 3-4 people using Renardo
+(a FoxDot fork) and the Flok online editor. It will be a gentle enough introduction to Renardo but will also present new livecoding possibilites in original directions
+(DAW livecoding, Python+SCLang livecoding and metaprogramming - see https://eliegavoty.xyz/docs/new-renardo-features).
 
 # $ABSTRACT
 
