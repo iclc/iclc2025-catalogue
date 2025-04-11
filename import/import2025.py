@@ -8,26 +8,10 @@ import re
 from pathlib import Path
 
 """
-Video: prog_note
 Paper: abstract
 Workshop: abstract, prog_note
-Performace: abastract, prog_note
+Performace: abastract (TBD), prog_note
 """
-
-EXPORT_MAIL = True
-
-BASIC_TYPES = {
-    "Performance": "performance",
-    "Paper-Long": "paper",
-    "Paper-Short": "paper",
-    "Community-Written": "paper",
-    "Workshop": "workshop",
-    "Community-Video": "video",
-    "Video-Long": "video",
-    "Video-Short": "video"
-}
-
-FOLDERS = ["performance", "person", "workshop", "video", "paper", "secret"]
 
 def make_slug(input):
     return slugify(input, True, True, True, 64, True)
@@ -69,13 +53,23 @@ with open('authors.csv', 'r') as file:
 with open('workshop_time_abstract.csv', 'r') as file:
     ws_time_abstract_string = file.read()
 
+with open('perf.csv', 'r') as file:
+    perf_time_abstract_string = file.read()
+
 authors = read_as_clean_dict(authors_string)
+
 ws_time_abstract_list = read_as_clean_dict(ws_time_abstract_string)
 ws_time_abstract = {}
+perf_time_abstract_list = read_as_clean_dict(perf_time_abstract_string)
+perf_time_abstract = {}
 
 # dict with ID
 for item in ws_time_abstract_list:    
     ws_time_abstract[item["ID"]] = item
+
+# dict with ID
+for item in perf_time_abstract_list:    
+    perf_time_abstract[item["ID"]] = item
 
 ws_template = """---
 slug: %s
@@ -83,6 +77,28 @@ status: proof
 title: %s
 type: workshop
 submission_type: Workshop
+time: %s
+contributors:
+%s
+---
+
+# $PROGRAM_NOTE
+
+%s
+
+# $ABSTRACT
+
+%s
+
+"""
+
+perf_template = """---
+slug: %s
+status: proof
+title: %s
+event: %s
+type: performance
+submission_type: Performance
 time: %s
 contributors:
 %s
@@ -126,6 +142,26 @@ schedule:
 ---
 """
 
+perf_event_template = """---
+slug: %s
+type: event
+status: ready
+event_type: Performances
+title: %s
+venue: %s
+date_time: tba
+schedule:
+%s
+---
+"""
+
+# create folders
+Path("output/assets/").mkdir(parents=True, exist_ok=True)
+Path("output/workshop/").mkdir(parents=True, exist_ok=True)
+Path("output/event/").mkdir(parents=True, exist_ok=True)
+Path("output/person/").mkdir(parents=True, exist_ok=True)
+Path("output/performance/").mkdir(parents=True, exist_ok=True)
+
 workshops = {}
 
 # GET WORKSHOPS
@@ -150,29 +186,24 @@ for author in authors:
             "room": ws_time_abstract[id]["Room"],
         })["authors"].append([author_slug, author["Firstname"], author["lastname"]])
 
-Path("output/assets/").mkdir(parents=True, exist_ok=True)
-Path("output/workshop/").mkdir(parents=True, exist_ok=True)
-Path("output/event/").mkdir(parents=True, exist_ok=True)
-Path("output/person/").mkdir(parents=True, exist_ok=True)
-
 # RENDER PEOPLE TO MD, JUST SO THE LINKS ARE NOT DEAD (FOR NOW)
 for slug, workshop in workshops.items():
-    authors = ""
+    authors_string = ""
     
     for author in workshop["authors"]:
-        authors += "- person: $" + author[0] +"\n"
+        authors_string += "- person: $" + author[0] +"\n"
         content = person_template % (author[0], author[1], author[2])
         with open('output/person/' + author[0] + ".md", 'w') as file:
             file.write(content)
 
 # RENDER WORKSHOPS TO MD
 for slug, workshop in workshops.items():
-    authors = ""
+    authors_string = ""
     
     for author in workshop["authors"]:
-        authors += "- person: $" + author[0] +"\n"
+        authors_string += "- person: $" + author[0] +"\n"
             
-    content = ws_template % (workshop['slug'], workshop['title'], workshop["time"], authors, workshop['program_note'], workshop['abstract'])
+    content = ws_template % (workshop['slug'], workshop['title'], workshop["time"], authors_string, workshop['program_note'], workshop['abstract'])
 
     with open('output/workshop/' + workshop["filename"], 'w') as file:
         file.write(content)
@@ -189,4 +220,69 @@ for slug, workshop in workshops.items():
         file.write(ws_event_template % workshop_schedule)
 
     
+# PERFORMANCES
+performances = {}
+performance_events = {}
+
+# GET PERFORMANCES
+for author in authors: 
+    if author["Type"] == "performance" and author["Status"] == "Accepted" :
+        title = author["Title"].replace(":", " - ")
+        slug = make_slug(title)
+        author_slug = make_slug(author["lastname"] + "-" + author["Firstname"])
+        id = author["ID"]
+        
+        abstract = "" # tbd
+        # some are withdrawn
+        try:
+            program_note = perf_time_abstract[id]["ProgramNotes"]
+        except:
+            continue
+        
+        performances.setdefault(slug, {
+            "authors": [],
+            "slug": slug,                
+            "title": title,
+            "filename": "%s_%s.md" % (id, slug),
+            "abstract": abstract,
+            "event": perf_time_abstract[id]["event"],
+            "program_note": program_note,
+            "time": perf_time_abstract[id]["Schedule"],
+            "room": perf_time_abstract[id]["Room"],
+        })["authors"].append([author_slug, author["Firstname"], author["lastname"]])
+
+
+
+        
+# RENDER PEOPLE TO MD, JUST SO THE LINKS ARE NOT DEAD (FOR NOW)
+for slug, performance in performances.items():    
+    for author in performance["authors"]:
+        content = person_template % (author[0], author[1], author[2])
+        with open('output/person/' + author[0] + ".md", 'w') as file:
+            file.write(content)
+
+# RENDER PERFORMANCES TO MD
+for slug, performance in performances.items():
+    authors_string = ""
     
+    for author in performance["authors"]:
+        authors_string += "- person: $" + author[0] +"\n"
+            
+    content = perf_template % (performance['slug'], performance['title'], performance['event'], performance["time"], authors_string, performance['program_note'], performance['abstract'])
+
+    with open('output/performance/' + performance["filename"], 'w') as file:
+        file.write(content)
+
+# COLLECT PERFORMANCE EVENTS
+for slug, performance in performances.items():
+    performance_events.setdefault(performance["event"], []).append(performance)
+
+for event, perfs in performance_events.items():
+    event_schedule = ""
+    venue = ""
+    for perf in perfs:
+        event_schedule += "  -  time: %s\n     item: $%s\n" % (perf['time'], perf['slug'])
+        venue = perf['room']
+
+    with open('output/event/%s.md' % event , 'w') as file:
+        file.write(perf_event_template % (event, event, venue, event_schedule))

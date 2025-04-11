@@ -373,7 +373,7 @@ def title_for_item(item, include_type=False):
         post = " (" + type_description_for_item(item) + ")"
     
     if item["type"] == "person": ret = render_name(item)
-    else: ret = item["title"]
+    else: ret = str(item["title"])
 
     return ret + post
 
