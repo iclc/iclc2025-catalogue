@@ -5,7 +5,7 @@ title: Mass Spectra
 event: opening-concert
 type: performance
 submission_type: Performance
-time: 18:30 - 20:30
+time: 18:30 - 18:50
 contributors:
 - person: $francisco-maia
 - person: $cowlishaw-tim

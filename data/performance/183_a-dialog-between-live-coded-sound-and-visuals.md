@@ -5,7 +5,7 @@ title: A Dialog Between Live Coded Sound And Visuals
 event: opening-concert
 type: performance
 submission_type: Performance
-time: 18:30 - 20:30
+time: 19:25 - 19:45
 contributors:
 - person: $stringham-jessica
 - person: $hoeger-katarina

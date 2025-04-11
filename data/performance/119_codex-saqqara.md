@@ -5,7 +5,7 @@ title: Codex_Saqqara
 event: opening-concert
 type: performance
 submission_type: Performance
-time: 18:30 - 20:30
+time: 20:15 - 20:30
 contributors:
 - person: $dal-ri-francesco
 - person: $zanghellini-francesca
