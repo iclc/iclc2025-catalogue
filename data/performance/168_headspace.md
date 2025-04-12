@@ -2,10 +2,10 @@
 slug: headspace
 status: proof
 title: HeadSpace
-event: concert-5
+event: concert-5-thu-sala-beckett
 type: performance
 submission_type: Performance
-time: 19:00 - 21:40
+time: Thursday, May 29, 18:00 - 21:30
 contributors:
 - person: $champlin-alicia
 

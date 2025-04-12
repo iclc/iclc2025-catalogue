@@ -5,7 +5,7 @@ title: Welcome to the Machine
 event: opening-concert
 type: performance
 submission_type: Performance
-time: 18:55 - 19:20
+time: Tuesday, May 27, 18:00 - 20:30
 contributors:
 - person: $catchot-xavier
 - person: $pibernat-roger

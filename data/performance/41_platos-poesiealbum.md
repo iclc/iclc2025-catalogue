@@ -2,10 +2,10 @@
 slug: platos-poesiealbum
 status: proof
 title: Platos Poesiealbum
-event: concert-3
+event: concert-3-wed-sala-beckett
 type: performance
 submission_type: Performance
-time: 18:30 - 21:20
+time: Wednesday, May 28, 18:00 - 21:30
 contributors:
 - person: $schneiderbanger-matthias
 - person: $ballweg-holger

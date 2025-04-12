@@ -129,7 +129,10 @@ def load_md(path):
 
     if obj["type"] == "event":
         for item in obj["schedule"]:
-            item["time"] = sanitize_time(item["time"])
+            try:
+                item["time"] = sanitize_time(item["time"])
+            except:
+                pass
 
     store[obj["slug"]] = obj
 
@@ -168,7 +171,11 @@ def render_schedule(event, do_hide=True, do_link=True, no_time=False, no_small=F
         title = item['item']
         authors = ""
         authors_sm = ""
-        time = item['time']
+        time = ""
+        try:
+            time = item['time']
+        except:            
+            no_time = True
 
         if item.get('hide_time'):
             time = ""
@@ -223,10 +230,7 @@ def render_schedule(event, do_hide=True, do_link=True, no_time=False, no_small=F
             authors_sm = f"<div class='d-md-block mt-0 d-lg-none' style='margin-bottom: 10px;'>{authors_sm}</div>"
 
         if no_small: authors_sm = ""
-
-        c = c + f"<tr>{time_cell}<td>{authors_sm}<strong>{title}</strong>{item_venue}</td><td class='d-md-none d-sm-none d-none d-lg-table-cell'>{authors}</td></tr>\n"
-
-        
+                
         if item.get("visuals", None):
             vis = store[item["visuals"][1:]]
             vis_cont = vis["contributors"][0]["person"][1:]
@@ -242,9 +246,14 @@ def render_schedule(event, do_hide=True, do_link=True, no_time=False, no_small=F
             vis_auth_sm = f"<span class='d-md-inline mt-0 d-lg-none' style='margin-bottom: 6px;'><br>{vis_auth} &ndash; </span>"
 
             if no_small: vis_auth_sm = ""
-
-            c = c + f"<tr style='position:relative;top:-12px;'><td></td><td>Visuals: {vis_auth_sm}<strong><em>{vis_title}</em></strong>{item_venue}</td><td class='d-md-none d-sm-none d-none d-lg-table-cell'>{vis_auth}</td></tr>\n"
-        
+            vis_time_cell = "<td></td>"
+            if no_time: vis_time_cell = ""
+            c = c + f"<tr style='border:none;'>{time_cell}<td>{authors_sm}<strong>{title}</strong>{item_venue}</td><td class='d-md-none d-sm-none d-none d-lg-table-cell'>{authors}</td></tr>\n"
+            c = c + f"<tr style='border:none;'>{vis_time_cell}<td>Visuals: {vis_auth_sm}<strong><em>{vis_title}</em></strong>{item_venue}</td><td class='d-md-none d-sm-none d-none d-lg-table-cell'>{vis_auth}</td></tr>\n"
+            c = c + "<tr></tr>"
+        else:
+            c = c + f"<tr>{time_cell}<td>{authors_sm}<strong>{title}</strong>{item_venue}</td><td class='d-md-none d-sm-none d-none d-lg-table-cell'>{authors}</td></tr>\n"
+                    
     return c
 
 def master_schedule_event(slug):
@@ -675,8 +684,17 @@ def render_catalogue_index():
     #c += render_event_list("Community Reports", ["community-session-1", "community-session-2"])
 
     #c += render_event_list("Keynote Sessions", ["keynote-1", "keynote-2", "keynote-3"])
-
-    #c += render_event_list("Concerts", ["choreographic-coding", "lunch-concert-1", "alternative-algorithms", "lunch-concert-2", "immersed-in-code", "algorave", "hybrid-acoustics"])
+    
+    c += render_event_list("Concerts", [
+        "opening-concert",
+        "concert-2",
+        "concert-3-wed-sala-beckett",
+        "concert-4",
+        "concert-5-thu-sala-beckett",
+        "concert-6",
+        "concert-7-la-nau",        
+        "concert-8-laut"    
+    ])
     
     c += render_event_list("Workshops", ["workshops"])
 

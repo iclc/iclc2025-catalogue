@@ -2,10 +2,10 @@
 slug: ralt144mi-performance
 status: proof
 title: Ralt144MI Performance
-event: algorave
+event: concert-7-la-nau
 type: performance
 submission_type: Performance
-time: 21:00 - 1:30
+time: Friday, May 30, 21:30 - 02:00
 contributors:
 - person: $georges-remi
 

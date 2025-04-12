@@ -5,7 +5,7 @@ title: Infiniteluumuios
 event: opening-concert
 type: performance
 submission_type: Performance
-time: 19:50 - 20:10
+time: Tuesday, May 27, 18:00 - 20:30
 contributors:
 - person: $kiefer-chris
 - person: $symons-steve

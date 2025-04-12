@@ -2,14 +2,12 @@
 slug: concert-2
 type: event
 status: ready
-event_type: Performances
-title: concert-2
+event_type: Concert
+title: liveness in verse
 venue: Universitat Oberta de Catalunya
-date_time: tba
+date_time: Wednesday, May 28, 14:30 - 15:30
 schedule:
-  -  time: 14:30 - 15:30
-     item: $grammarian
-  -  time: 14:30 - 15:30
-     item: $the-sun-rising
+  -  item: $grammarian
+  -  item: $the-sun-rising
 
 ---

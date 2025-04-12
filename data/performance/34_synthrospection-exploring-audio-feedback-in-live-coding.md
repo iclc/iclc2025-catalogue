@@ -2,10 +2,10 @@
 slug: synthrospection-exploring-audio-feedback-in-live-coding
 status: proof
 title: Synthrospection -  Exploring Audio Feedback in Live Coding
-event: concert-8
+event: concert-8-laut
 type: performance
 submission_type: Performance
-time: 21:50 - 22:15
+time: Saturday, May 31, 19:45 - 23:00
 contributors:
 - person: $tadokoro-atsushi
 

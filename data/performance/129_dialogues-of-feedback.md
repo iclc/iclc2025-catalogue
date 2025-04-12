@@ -2,10 +2,10 @@
 slug: dialogues-of-feedback
 status: proof
 title: Dialogues of Feedback
-event: concert-8
+event: concert-8-laut
 type: performance
 submission_type: Performance
-time: 22:20 - 22:50
+time: Saturday, May 31, 19:45 - 23:00
 contributors:
 - person: $zybinska-paulina
 - person: $zaccuri-andrea

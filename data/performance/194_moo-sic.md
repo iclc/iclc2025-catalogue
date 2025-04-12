@@ -5,7 +5,7 @@ title: MOO-SiC
 event: concert-4
 type: performance
 submission_type: Performance
-time: 15:00 - 16:00
+time: Thursday, May 29, 15:00 - 16:00
 contributors:
 - person: $hutchins-charles
 - person: $knotts-shelly

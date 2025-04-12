@@ -2,10 +2,10 @@
 slug: node-trash-can-nostalgia
 status: proof
 title: Node Trash can|{nostalgia}
-event: concert-8
+event: concert-8-laut
 type: performance
 submission_type: Performance
-time: 21:20 - 21:45
+time: Saturday, May 31, 19:45 - 23:00
 contributors:
 - person: $cortes-malitzin
 - person: $abreu-ivan

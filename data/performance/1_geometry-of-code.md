@@ -5,7 +5,7 @@ title: Geometry of code
 event: concert-6
 type: performance
 submission_type: Performance
-time: 17:00 - 18:00
+time: Friday, May 30, 17:00 - 18:00
 contributors:
 - person: $mclean-alex
 

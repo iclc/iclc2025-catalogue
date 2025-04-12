@@ -106,7 +106,7 @@ status: ready
 event_type: Performances
 title: %s
 venue: %s
-date_time: tba
+date_time: %s
 schedule:
 %s
 ---
@@ -121,6 +121,7 @@ Path("output/performance/").mkdir(parents=True, exist_ok=True)
 # PERFORMANCES
 performances = {}
 performance_events = {}
+performance_event_titles = {}
 
 # GET PERFORMANCES
 for author in authors: 
@@ -144,10 +145,12 @@ for author in authors:
             "title": title,
             "filename": "%s_%s.md" % (id, slug),
             "abstract": abstract,
-            "event": perf_time_abstract[id]["event"],
+            "event": make_slug(perf_time_abstract[id]["event"]),
+            "event_title": perf_time_abstract[id]["event_title"],
             "program_note": program_note,
-            "time": perf_time_abstract[id]["Schedule"],
-            "venue": perf_time_abstract[id]["Room"],
+            "order": perf_time_abstract[id]["order"],
+            "time": perf_time_abstract[id]["Date"] + ", " + perf_time_abstract[id]["Schedule"],
+            "venue": perf_time_abstract[id]["Venue"],
         })["authors"].append([author_slug, author["Firstname"], author["lastname"]])
 
         
@@ -175,13 +178,22 @@ for slug, performance in performances.items():
 # COLLECT PERFORMANCE EVENTS
 for slug, performance in performances.items():
     performance_events.setdefault(performance["event"], []).append(performance)
+    performance_event_titles.setdefault(performance["event"], performance["event_title"])
 
 for event, perfs in performance_events.items():
     event_schedule = ""
     venue = ""
+    date_time = perfs[0]["time"]
+    event_title = performance_event_titles[event]
+    event_title = event_title.replace("\n", " - ")
+    event_title = event_title.replace(":", "&#58;")
+    event_title = event_title.replace("|", "&#124;")
+
+    perfs = sorted(perfs, key=lambda item: item["order"])
+    
     for perf in perfs:
-        event_schedule += "  -  time: %s\n     item: $%s\n" % (perf['time'], perf['slug'])
-        venue = perf['room']
+        event_schedule += "  -  item: $%s\n" % (perf['slug'])
+        venue = perf['venue']
 
     with open('output/event/%s.md' % event , 'w') as file:
-        file.write(perf_event_template % (event, event, venue, event_schedule))
+        file.write(perf_event_template % (event, event_title, venue, date_time, event_schedule))

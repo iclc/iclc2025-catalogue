@@ -2,10 +2,10 @@
 slug: afrontaciones-f-copings-narrativas-de-la-memoria-y-la-violencia
 status: proof
 title: afrontaciones => (f.) copings Narrativas de la Memoria y la Violencia del habitar
-event: concert-3
+event: concert-3-wed-sala-beckett
 type: performance
 submission_type: Performance
-time: 18:30 - 21:20
+time: Wednesday, May 28, 18:00 - 21:30
 contributors:
 - person: $rodriguez-jessica-a
 

@@ -2,10 +2,10 @@
 slug: trans-fail-combodagen
 status: proof
 title: trans.fail/combodagen
-event: concert-8
+event: concert-8-laut
 type: performance
 submission_type: Performance
-time: 20:20 - 20:45
+time: Saturday, May 31, 19:45 - 23:00
 contributors:
 - person: $princic-luka
 

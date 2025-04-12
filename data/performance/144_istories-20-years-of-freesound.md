@@ -2,10 +2,10 @@
 slug: istories-20-years-of-freesound
 status: proof
 title: Ιstoríes (20 Years of Freesound)
-event: concert-3
+event: concert-3-wed-sala-beckett
 type: performance
 submission_type: Performance
-time: 18:30 - 21:20
+time: Wednesday, May 28, 18:00 - 21:30
 contributors:
 - person: $anastasopoulou-panagiota
 

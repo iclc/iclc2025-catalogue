@@ -2,10 +2,10 @@
 slug: jitr-cchitr-the-extended-gong-ensemble
 status: proof
 title: Jitr จิตร -  the extended gong ensemble
-event: concert-5
+event: concert-5-thu-sala-beckett
 type: performance
 submission_type: Performance
-time: 19:00 - 21:40
+time: Thursday, May 29, 18:00 - 21:30
 contributors:
 - person: $tothong-nitcha
 - person: $kengkarnka-kengchakaj
@@ -20,7 +20,6 @@ project, Jitr จตร. With two core distinctions: the MIDI network of imagina
 gongs connecting elekhlekha members and a communal music-making gathering
 rooted in Southeast Asian indigenous practices.
 
-rooted in Southeast Asian indigenous practices.
 Visual is a live-coding performative document assembling datasets from Jitr
 Poumisak's writing juxtaposed with distorted propaganda footage, weaving in the
 narrative of oppressed sounds, people's voices, and memories.

@@ -2,10 +2,10 @@
 slug: sensing-the-alice-holt-forest
 status: proof
 title: Sensing the Alice Holt Forest
-event: concert-5
+event: concert-5-thu-sala-beckett
 type: performance
 submission_type: Performance
-time: 19:00 - 21:40
+time: Thursday, May 29, 18:00 - 21:30
 contributors:
 - person: $xambo-anna
 

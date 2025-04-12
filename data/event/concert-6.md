@@ -2,14 +2,12 @@
 slug: concert-6
 type: event
 status: ready
-event_type: Performances
-title: concert-6
+event_type: Concert
+title: temporality of shape
 venue: Universitat Oberta de Catalunya
-date_time: tba
+date_time: Friday, May 30, 17:00 - 18:00
 schedule:
-  -  time: 17:00 - 18:00
-     item: $geometry-of-code
-  -  time: 17:00 - 18:00
-     item: $the-printer-jam
+  -  item: $the-printer-jam
+  -  item: $geometry-of-code
 
 ---

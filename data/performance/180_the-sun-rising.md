@@ -5,7 +5,7 @@ title: The Sun Rising
 event: concert-2
 type: performance
 submission_type: Performance
-time: 14:30 - 15:30
+time: Wednesday, May 28, 14:30 - 15:30
 contributors:
 - person: $toplap-athens
 
