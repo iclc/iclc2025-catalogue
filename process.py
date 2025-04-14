@@ -460,7 +460,7 @@ def render_event_info(event, display_venue=True):
     if not 'date_time' in event: event_text = ""
     else:
         event_text = f"""
-        <strong>{event['title']}</strong><br>
+        <span style='font-weight: bold; font-size: 18px;'>{event['title']}</span><br>
         {event['date_time']}{venue}
         """
        
