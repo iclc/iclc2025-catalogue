@@ -8,6 +8,7 @@ time: 16:15 - 18:15
 contributors:
 - person: $sicchio-kate
 - person: $oduro-kofi
+- person: $ogborn-david
 
 ---
 
