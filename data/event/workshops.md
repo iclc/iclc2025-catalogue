@@ -24,7 +24,7 @@ schedule:
      venue: Canòdrom - Sala Ada Lovelace
   -  time: 11:00 - 13:00
      item: $blockly-web-audio-api-and-ready-made-blocks-for-music-teaching
-     venue: Canòdrom - Terrassa
+     venue: Canòdrom - Kamal Ranadive
   -  time: 14:00 - 16:00
      item: $an-introduction-into-tidallooper
      venue: Canòdrom - Sala Kamal Ranadive

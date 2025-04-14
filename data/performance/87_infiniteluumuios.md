@@ -8,7 +8,6 @@ submission_type: Performance
 time: Tuesday, May 27, 18:00 - 20:30
 contributors:
 - person: $kiefer-chris
-- person: $symons-steve
 - person: $kyriakoudis-dimitris
 
 ---
