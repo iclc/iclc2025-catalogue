@@ -1,20 +1,19 @@
 ---
 slug: jitr-cchitr-the-extended-gong-ensemble
 status: proof
-title: Jitr จิตร -  the extended gong ensemble
+title: Jitr จิตร - extended gong ensemble
 event: concert-5-thu-sala-beckett
 type: performance
 submission_type: Performance
 time: Thursday, May 29, 18:00 - 21:30
 contributors:
-- person: $tothong-nitcha
-- person: $kengkarnka-kengchakaj
+- person: $elekhlekha
 
 ---
 
 # $PROGRAM_NOTE
 
-Jitr จตร: extended gong ensemble is an audio/visual networked live coding,
+Jitr จตร: extended gong ensemble is audio/visual networked live coding,
 collaborative sound making, and an extended body of work from an ever-evolving
 project, Jitr จตร. With two core distinctions: the MIDI network of imaginary
 gongs connecting elekhlekha members and a communal music-making gathering
