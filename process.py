@@ -696,7 +696,7 @@ def render_catalogue_index():
         "concert-8-laut"    
     ])
     
-    c += render_event_list("Workshops", ["workshops"])
+    c += render_event_list("Workshops", ["workshops-1","workshops-2", "workshops-3"])
 
     #c += "<h4 class='mt-5'><a href='catalogue/other/video-gallery.html'>Video Gallery</a></h4>";
 
