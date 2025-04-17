@@ -13,9 +13,9 @@ contributors:
 
 # $PROGRAM_NOTE
 
-In this performance, rhythmic patterns are produced by live coding binary sig-
-nals using an embedded computer. The computer has a small screen and key-
-board connection but very limited processing power. Sounds are improvised as
+In this performance, rhythmic patterns are produced by live coding binary signals 
+using an embedded computer. The computer has a small screen and keyboard 
+connection but very limited processing power. Sounds are improvised as
 bit-wise operations between bit sequences. There is no difference between sound
 or pattern. Life is reduced to an oscillation between two states.
 
