@@ -6,8 +6,9 @@ last_name: Xavier
 first_name: Catchot
 alias: null
 affiliations:
-- TBD
+- Independent
 ---
 
-TBD
-
+Xavier Catchot is a software engineer who began coding music in 2015 with
+Sonic Pi and SuperCollider. With a strong foundation in experimental and avantgarde music, he brings a deep passion for a wide range of artistic languages to
+his work, blending creative expression with technological innovation.
