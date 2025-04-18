@@ -2,8 +2,8 @@
 slug: harris-roxanne
 status: proof
 type: person
-last_name: Roxanne
-first_name: Harris
+first_name: Roxanne
+last_name: Harris
 alias: null
 affiliations:
 - UCLA

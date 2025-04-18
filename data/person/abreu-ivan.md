@@ -2,8 +2,8 @@
 slug: abreu-ivan
 status: proof
 type: person
-last_name: Ivan
-first_name: Abreu
+first_name: Ivan
+last_name: Abreu
 alias: null
 affiliations:
 - Independent

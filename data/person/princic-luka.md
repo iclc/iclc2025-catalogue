@@ -2,8 +2,8 @@
 slug: princic-luka
 status: proof
 type: person
-last_name: Luka
-first_name: Prinčič
+first_name: Luka
+last_name: Prinčič
 alias: null
 affiliations:
 - Emanat Institute

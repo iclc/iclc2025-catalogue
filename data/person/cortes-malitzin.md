@@ -2,8 +2,8 @@
 slug: cortes-malitzin
 status: proof
 type: person
-last_name: Malitzin
-first_name: Cortes
+first_name: Malitzin
+last_name: Cortes
 alias: CNDSD
 affiliations:
 - Independent

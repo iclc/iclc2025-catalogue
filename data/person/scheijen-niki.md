@@ -2,8 +2,8 @@
 slug: scheijen-niki
 status: proof
 type: person
-last_name: Niki
-first_name: Scheijen
+first_name: Niki
+last_name: Scheijen
 alias: Nikilia
 affiliations:
 - Independent

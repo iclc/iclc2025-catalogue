@@ -2,8 +2,8 @@
 slug: mclean-alex
 status: proof
 type: person
-last_name: Alex
-first_name: Mclean
+first_name: Alex
+last_name: McLean
 alias: null
 affiliations:
 - Then Try This

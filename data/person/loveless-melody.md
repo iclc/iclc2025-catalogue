@@ -2,8 +2,8 @@
 slug: loveless-melody
 status: proof
 type: person
-last_name: Melody
-first_name: Loveless
+first_name: Melody
+last_name: Loveless
 alias: null
 affiliations:
 - Independent

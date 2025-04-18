@@ -2,8 +2,8 @@
 slug: isern-rabella-eloi
 status: proof
 type: person
-last_name: Eloi
-first_name: Isern Rabella
+first_name: Eloi
+last_name: Isern Rabella
 alias: Eloi el Bon Noi
 affiliations:
 - Toplap Barcelona

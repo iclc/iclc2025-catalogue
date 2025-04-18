@@ -2,8 +2,8 @@
 slug: pibernat-roger
 status: proof
 type: person
-last_name: Roger
-first_name: Pibernat
+first_name: Roger
+last_name: Pibernat
 alias: null
 affiliations:
 - Toplap Barcelona

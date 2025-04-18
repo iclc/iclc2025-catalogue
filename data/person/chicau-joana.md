@@ -2,8 +2,8 @@
 slug: chicau-joana
 status: proof
 type: person
-last_name: Joana
-first_name: Chicau
+first_name: Joana
+last_name: Chicau
 alias: null
 affiliations:
 - TBD

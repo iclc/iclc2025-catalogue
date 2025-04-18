@@ -2,8 +2,8 @@
 slug: srinivasan-sumanth
 status: proof
 type: person
-last_name: Sumanth
-first_name: Srinivasan
+first_name: Sumanth
+last_name: Srinivasan
 alias: Reckoner
 affiliations:
 - TBD

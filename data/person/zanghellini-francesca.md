@@ -2,8 +2,8 @@
 slug: zanghellini-francesca
 status: proof
 type: person
-last_name: Francesca
-first_name: Zanghellini
+first_name: Francesca
+last_name: Zanghellini
 alias: null
 affiliations:
   - Conservatory of Bolzano

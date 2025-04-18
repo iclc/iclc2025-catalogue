@@ -2,8 +2,8 @@
 slug: tadokoro-atsushi
 status: proof
 type: person
-last_name: Atsushi
-first_name: Tadokoro
+first_name: Atsushi
+last_name: Tadokoro
 alias: null
 affiliations:
 - Maebashi Institute of Technology

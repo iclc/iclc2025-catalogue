@@ -2,8 +2,8 @@
 slug: hoeger-katarina
 status: proof
 type: person
-last_name: Katarina
-first_name: Hoeger
+first_name: Katarina
+last_name: Hoeger
 alias: null
 affiliations:
 - LiveCode.NYC

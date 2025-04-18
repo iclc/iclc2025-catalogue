@@ -2,8 +2,8 @@
 slug: borgeat-patrick
 status: proof
 type: person
-last_name: Patrick
-first_name: Borgeat
+first_name: Patrick
+last_name: Borgeat
 alias: null
 affiliations:
 - Independent

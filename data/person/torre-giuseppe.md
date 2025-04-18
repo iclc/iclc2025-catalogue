@@ -2,8 +2,8 @@
 slug: torre-giuseppe
 status: proof
 type: person
-last_name: Giuseppe
-first_name: Torre
+first_name: Giuseppe
+last_name: Torre
 alias: null
 affiliations:
 - University of Limerick

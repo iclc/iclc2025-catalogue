@@ -2,8 +2,8 @@
 slug: grund-thomas
 status: proof
 type: person
-last_name: Thomas
-first_name: Grund
+first_name: Thomas
+last_name: Grund
 alias: null
 affiliations:
 - TBD

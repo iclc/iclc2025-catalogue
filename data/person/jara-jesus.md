@@ -2,8 +2,8 @@
 slug: jara-jesus
 status: proof
 type: person
-last_name: Jesus
-first_name: Jara
+first_name: Jesus
+last_name: Jara
 alias: null
 affiliations:
 - TBD

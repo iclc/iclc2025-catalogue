@@ -2,8 +2,8 @@
 slug: georges-remi
 status: proof
 type: person
-last_name: Rémi
-first_name: Georges
+first_name: Rémi
+last_name: Georges
 alias: Ralt144MI
 affiliations:
 - Cookie Collectif

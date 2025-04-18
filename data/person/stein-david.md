@@ -2,8 +2,8 @@
 slug: stein-david
 status: proof
 type: person
-last_name: David
-first_name: Stein
+first_name: David
+last_name: Stein
 alias: null
 affiliations:
 - TBD

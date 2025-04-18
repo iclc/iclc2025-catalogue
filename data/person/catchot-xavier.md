@@ -2,8 +2,8 @@
 slug: catchot-xavier
 status: proof
 type: person
-last_name: Xavier
-first_name: Catchot
+first_name: Xavier
+last_name: Catchot
 alias: null
 affiliations:
 - Independent

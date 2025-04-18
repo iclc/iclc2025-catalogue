@@ -2,8 +2,8 @@
 slug: anastasopoulou-panagiota
 status: proof
 type: person
-last_name: Panagiota
-first_name: Anastasopoulou
+first_name: Panagiota
+last_name: Anastasopoulou
 alias: allholy
 affiliations:
 - Universitat Pompeu Fabra (Music Technology Group)

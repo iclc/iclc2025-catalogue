@@ -2,8 +2,8 @@
 slug: toplap-athens
 status: proof
 type: person
-last_name: Toplap
-first_name: Athens
+first_name: Toplap
+last_name: Athens
 alias: null
 affiliations: 
   - Toplap Athens

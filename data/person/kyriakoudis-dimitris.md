@@ -2,8 +2,8 @@
 slug: kyriakoudis-dimitris
 status: proof
 type: person
-last_name: Dimitris
-first_name: Kyriakoudis
+first_name: Dimitris
+last_name: Kyriakoudis
 alias: null
 affiliations:
 - Independent

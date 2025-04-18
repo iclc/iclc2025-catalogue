@@ -2,8 +2,8 @@
 slug: gorelick-dan
 status: proof
 type: person
-last_name: Dan
-first_name: Gorelick
+first_name: Dan
+last_name: Gorelick
 alias: null
 affiliations:
 - TBD

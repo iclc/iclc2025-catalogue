@@ -2,8 +2,8 @@
 slug: bresciani-rafael
 status: proof
 type: person
-last_name: Rafael
-first_name: Bresciani
+first_name: Rafael
+last_name: Bresciani
 alias: lixt
 affiliations:
 - Accademia di Belle Arti di Santa Giulia

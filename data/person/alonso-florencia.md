@@ -2,8 +2,8 @@
 slug: alonso-florencia
 status: proof
 type: person
-last_name: Florencia
-first_name: Alonso
+first_name: Florencia
+last_name: Alonso
 alias: null
 affiliations:
 - TBD

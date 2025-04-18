@@ -2,8 +2,8 @@
 slug: kiefer-chris
 status: proof
 type: person
-last_name: Chris
-first_name: Kiefer
+first_name: Chris
+last_name: Kiefer
 alias: null
 affiliations:
 - Independent

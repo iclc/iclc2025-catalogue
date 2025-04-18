@@ -2,8 +2,8 @@
 slug: camci-anil
 status: proof
 type: person
-last_name: Anıl
-first_name: Çamcı
+first_name: Anıl
+last_name: Çamcı
 alias: null
 affiliations:
 - TBD

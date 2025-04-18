@@ -2,8 +2,8 @@
 slug: lawson-shawn
 status: proof
 type: person
-last_name: Shawn
-first_name: Lawson
+first_name: Shawn
+last_name: Lawson
 alias: null
 affiliations:
 - TBD

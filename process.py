@@ -93,7 +93,7 @@ def render_name(person, display="default"):
 
     if not display: display = "default"
 
-    ret = person["first_name"] + ", " + person["last_name"]
+    ret = person["first_name"] + " " + person["last_name"]
 
     reverse = "reverse" in display
 
@@ -210,7 +210,7 @@ def render_schedule(event, do_hide=True, do_link=True, no_time=False, no_small=F
                 if contributor["person"].startswith("$"):
                     author = store[contributor["person"][1:]]
 
-                    author_text = render_name(author, contributor.get("display"))
+                    author_text = render_name(author, display="reverse")
 
                     if do_link:
                         author_text = link_to_item(author_text, author)
@@ -705,7 +705,7 @@ def render_catalogue_index():
 
     #c += "<h4 class='mt-5'><a href='catalogue/other/programming-committee.html'>Programming Committee</a></h4>";
 
-    """
+    
     c += "<br><br><h3>Contributor Overview</h3>\n"
 
     persons = []
@@ -719,8 +719,7 @@ def render_catalogue_index():
     for person in persons:
         c += "<li>" + link_to_item(person[0], store[person[1]]) + "</li>"
     c += "</ul>"
-    """
-    
+        
     cat_index_template_t = cat_index_template.replace("$CACHEBUST", cache_bust)
 
     with open(CAT_OUT_PATH + "index.html", "w") as file:

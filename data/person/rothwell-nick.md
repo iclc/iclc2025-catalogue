@@ -2,8 +2,8 @@
 slug: rothwell-nick
 status: proof
 type: person
-last_name: Nick
-first_name: Rothwell
+first_name: Nick
+last_name: Rothwell
 alias: null
 affiliations:
 - University of the Arts, London

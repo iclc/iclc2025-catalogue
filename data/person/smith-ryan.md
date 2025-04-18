@@ -2,8 +2,8 @@
 slug: smith-ryan
 status: proof
 type: person
-last_name: Ryan
-first_name: Smith
+first_name: Ryan
+last_name: Smith
 alias: null
 affiliations:
 - TBD

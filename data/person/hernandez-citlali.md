@@ -2,8 +2,8 @@
 slug: hernandez-citlali
 status: proof
 type: person
-last_name: Citlali
-first_name: Hernández
+first_name: Citlali
+last_name: Hernández
 alias: Turbulente
 affiliations:
 - Toplap Barcelona

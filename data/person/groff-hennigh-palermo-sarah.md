@@ -2,8 +2,8 @@
 slug: groff-hennigh-palermo-sarah
 status: proof
 type: person
-last_name: Sarah Groff
-first_name: Hennigh-Palermo
+first_name: Sarah Groff
+last_name: Hennigh-Palermo
 alias: null
 affiliations:
 - Independent

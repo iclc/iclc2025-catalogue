@@ -2,8 +2,8 @@
 slug: bautista-lina
 status: proof
 type: person
-last_name: Lina
-first_name: Bautista
+first_name: Lina
+last_name: Bautista
 alias: null
 affiliations:
 - Toplap Barcelona

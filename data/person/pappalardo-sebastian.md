@@ -2,8 +2,8 @@
 slug: pappalardo-sebastian
 status: proof
 type: person
-last_name: Sebastian
-first_name: Pappalardo
+first_name: Sebastian
+last_name: Pappalardo
 alias: eerie_ear
 affiliations:
 - Independent

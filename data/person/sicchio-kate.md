@@ -2,8 +2,8 @@
 slug: sicchio-kate
 status: proof
 type: person
-last_name: Kate
-first_name: Sicchio
+first_name: Kate
+last_name: Sicchio
 alias: null
 affiliations:
 - Virginia Commonwealth University

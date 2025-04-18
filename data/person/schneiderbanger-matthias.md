@@ -2,8 +2,8 @@
 slug: schneiderbanger-matthias
 status: proof
 type: person
-last_name: Matthias
-first_name: Schneiderbanger
+first_name: Matthias
+last_name: Schneiderbanger
 alias: null
 affiliations:
 - Robert Schumann Conservatory

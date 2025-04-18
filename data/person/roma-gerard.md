@@ -2,8 +2,8 @@
 slug: roma-gerard
 status: proof
 type: person
-last_name: Gerard
-first_name: Roma
+first_name: Gerard
+last_name: Roma
 alias: null
 affiliations:
 - University of West London

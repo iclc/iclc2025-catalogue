@@ -2,8 +2,8 @@
 slug: francisco-maia
 status: proof
 type: person
-last_name: Maia
-first_name: Francisco
+first_name: Maia
+last_name: Francisco
 alias: null
 affiliations:
 - Toplap Barcelona

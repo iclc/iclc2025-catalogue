@@ -2,8 +2,8 @@
 slug: stringham-jessica
 status: proof
 type: person
-last_name: Jessica
-first_name: Stringham
+first_name: Jessica
+last_name: Stringham
 alias: null
 affiliations:
 - MIT Media Lab

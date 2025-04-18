@@ -2,8 +2,8 @@
 slug: cowlishaw-tim
 status: proof
 type: person
-last_name: Tim
-first_name: Cowlishaw
+first_name: Tim
+last_name: Cowlishaw
 alias: null
 affiliations:
 - Universitat Oberta de Catalunya (DARTS Group)

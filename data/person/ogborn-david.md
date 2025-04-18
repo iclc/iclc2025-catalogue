@@ -2,8 +2,8 @@
 slug: ogborn-david
 status: proof
 type: person
-last_name: David
-first_name: Ogborn
+first_name: David
+last_name: Ogborn
 alias: null
 affiliations:
 - TBD

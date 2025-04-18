@@ -2,8 +2,8 @@
 slug: liu-jia
 status: proof
 type: person
-last_name: Jia
-first_name: Liu
+first_name: Jia
+last_name: Liu
 alias: null
 affiliations:
 - Toplap Karlsruhe

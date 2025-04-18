@@ -2,8 +2,8 @@
 slug: zybinska-paulina
 status: proof
 type: person
-last_name: Paulina
-first_name: Zybinska
+first_name: Paulina
+last_name: Zybinska
 alias: null
 affiliations:
 - Zurich University of the Arts

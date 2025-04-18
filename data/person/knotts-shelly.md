@@ -2,8 +2,8 @@
 slug: knotts-shelly
 status: proof
 type: person
-last_name: Shelly
-first_name: Knotts
+first_name: Shelly
+last_name: Knotts
 alias: null
 affiliations:
 - Independent

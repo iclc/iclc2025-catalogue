@@ -2,8 +2,8 @@
 slug: rodriguez-jessica-a
 status: proof
 type: person
-last_name: Jessica A.
-first_name: Rodriguez
+first_name: Jessica A.
+last_name: Rodriguez
 alias: null
 affiliations:
 - Andamio

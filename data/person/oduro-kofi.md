@@ -2,8 +2,8 @@
 slug: oduro-kofi
 status: proof
 type: person
-last_name: Kofi
-first_name: Oduro
+first_name: Kofi
+last_name: Oduro
 alias: null
 affiliations:
 - TBD

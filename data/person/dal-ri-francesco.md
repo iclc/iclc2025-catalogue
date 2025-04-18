@@ -2,8 +2,8 @@
 slug: dal-ri-francesco
 status: proof
 type: person
-last_name: Francesco Ardan
-first_name: Dal Rí
+first_name: Francesco Ardan
+last_name: Dal Rí
 alias: null
 affiliations:
 - University of Trento

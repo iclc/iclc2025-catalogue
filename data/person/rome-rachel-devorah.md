@@ -2,8 +2,8 @@
 slug: rome-rachel-devorah
 status: proof
 type: person
-last_name: Rachel Devorah
-first_name: Rome
+first_name: Rachel Devorah
+last_name: Rome
 alias: null
 affiliations:
 - Berklee College of Music

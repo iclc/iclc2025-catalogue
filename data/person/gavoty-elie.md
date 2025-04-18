@@ -2,8 +2,8 @@
 slug: gavoty-elie
 status: proof
 type: person
-last_name: Élie
-first_name: Gavoty
+first_name: Élie
+last_name: Gavoty
 alias: null
 affiliations:
 - TBD

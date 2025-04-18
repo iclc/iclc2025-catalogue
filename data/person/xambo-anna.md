@@ -2,8 +2,8 @@
 slug: xambo-anna
 status: proof
 type: person
-last_name: Anna
-first_name: Xambó
+first_name: Anna
+last_name: Xambó
 alias: null
 affiliations:
 - Queen Mary University of London

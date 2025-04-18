@@ -2,8 +2,8 @@
 slug: meerhoff-jasmin
 status: proof
 type: person
-last_name: Jasmin
-first_name: Meerhoff
+first_name: Jasmin
+last_name: Meerhoff
 alias: null
 affiliations:
 - Toplap Karlsruhe

@@ -2,8 +2,8 @@
 slug: davis-ted
 status: proof
 type: person
-last_name: Ted
-first_name: Davis
+first_name: Ted
+last_name: Davis
 alias: null
 affiliations:
 - Basel Academy of Art and Design

@@ -2,8 +2,8 @@
 slug: hutchins-charles
 status: proof
 type: person
-last_name: Charles
-first_name: Hutchins
+first_name: Charles
+last_name: Hutchins
 alias: null
 affiliations:
 - Independent

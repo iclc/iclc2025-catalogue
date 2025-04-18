@@ -2,8 +2,8 @@
 slug: simpson-jurgen
 status: proof
 type: person
-last_name: Jürgen
-first_name: Simpson
+first_name: Jürgen
+last_name: Simpson
 alias: null
 affiliations:
 - University of Limerick

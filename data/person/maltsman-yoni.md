@@ -2,8 +2,8 @@
 slug: maltsman-yoni
 status: proof
 type: person
-last_name: Yoni
-first_name: Maltsman
+first_name: Yoni
+last_name: Maltsman
 alias: null
 affiliations:
 - TBD

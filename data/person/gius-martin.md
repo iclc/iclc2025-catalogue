@@ -2,8 +2,8 @@
 slug: gius-martin
 status: proof
 type: person
-last_name: Martin
-first_name: Gius
+first_name: Martin
+last_name: Gius
 alias: null
 affiliations:
 - TBD

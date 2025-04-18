@@ -2,8 +2,8 @@
 slug: hoogland-timo
 status: proof
 type: person
-last_name: Timo
-first_name: Hoogland
+first_name: Timo
+last_name: Hoogland
 alias: null
 affiliations:
 - HKY University of the Arts Utrecht

@@ -2,8 +2,8 @@
 slug: vogel-wilbert
 status: proof
 type: person
-last_name: Wilbert
-first_name: Vogel
+first_name: Wilbert
+last_name: Vogel
 alias: Lil Bleep
 affiliations:
 - Independent

@@ -2,8 +2,8 @@
 slug: zhu-casta-jiahui
 status: proof
 type: person
-last_name: Casta Jiahui
-first_name: Zhu
+first_name: Casta Jiahui
+last_name: Zhu
 alias: Kastakila
 affiliations:
 - Independent

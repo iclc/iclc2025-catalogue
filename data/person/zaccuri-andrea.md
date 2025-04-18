@@ -2,8 +2,8 @@
 slug: zaccuri-andrea
 status: proof
 type: person
-last_name: Andrea
-first_name: Zaccuri
+first_name: Andrea
+last_name: Zaccuri
 alias: null
 affiliations:
 - Independent
