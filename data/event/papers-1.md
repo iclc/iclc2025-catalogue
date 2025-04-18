@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Live Coding Beyond Computers
-venue: UOC
+venue: Universitat Oberta de Catalunya (UOC) - Auditori
 date_time: Wednesday 28th, 10h-11:30h
 schedule:
   -  item: $algorithmic-alphabets-for-notating-movement

@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Audio-visual Livecoding
-venue: UOC
+venue: Universitat Oberta de Catalunya (UOC) - Auditori
 date_time: Thursday 29th, 10h-11:30h
 schedule:
   -  item: $transmit-a-programming-language-for-live-video-peformance

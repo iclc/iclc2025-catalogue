@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Collaborative Livecoding
-venue: UOC
+venue: Universitat Oberta de Catalunya (UOC) - Auditori
 date_time: Friday 30th, 12h-13:30h
 schedule:
   -  item: $absolute-relativity-and-live-coding-multidimensional-navigation

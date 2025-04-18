@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Communities and Artistic Practices
-venue: UOC
+venue: Universitat Oberta de Catalunya (UOC) - Auditori
 date_time: Friday 30th, 10h-11:30h
 schedule:
   -  item: $insider-the-spectrality-of-sound-in-live-coding-performance

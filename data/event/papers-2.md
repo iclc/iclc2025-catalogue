@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Speculative Futures
-venue: UOC
+venue: Universitat Oberta de Catalunya (UOC) - Auditori
 date_time: Wednesday 28th, 12h-13:30h
 schedule:
   -  item: $on-continuity

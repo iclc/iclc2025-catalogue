@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Live Coding Beyond Computers and Speculative Futures
-venue: UOC
+venue: Universitat Oberta de Catalunya (UOC) - Auditori
 date_time: Wednesday 28th, 15:30h-16:30h
 schedule:
   -  item: $using-the-electric-guitar-as-a-live-coding-interface

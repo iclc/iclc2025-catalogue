@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Artistic Practice and Reflections
-venue: UOC
+venue: Universitat Oberta de Catalunya (UOC) - Auditori
 date_time: Friday 30th, 14:30-15:30h
 schedule:
   -  item: $touring-independently-as-a-live-coder
