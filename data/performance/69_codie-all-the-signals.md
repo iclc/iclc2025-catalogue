@@ -8,6 +8,7 @@ submission_type: Performance
 time: Friday, May 30, 21:30 - 02:00
 contributors:
 - person: $sicchio-kate
+- person: $groff-hennigh-palermo-sarah
 
 ---
 
