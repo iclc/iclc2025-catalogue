@@ -10,6 +10,7 @@ contributors:
 - person: $zapata-laura
 - person: $nemocon-camilo
 - person: $fernandez-fernando
+
 ---
 
 # $ABSTRACT

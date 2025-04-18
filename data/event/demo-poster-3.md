@@ -10,5 +10,5 @@ schedule:
   -  item: $touring-independently-as-a-live-coder
   -  item: $show-us-your-thoughts-but-which-ones-demonstrating-abstraction-s
   -  item: $fantasy-ide-explorations-in-building-coding-environments-that-in
-
+  -  item: $mqptrxrxrxxn-archy-fictio
 ---
