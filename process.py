@@ -35,18 +35,17 @@ STATUS_REL_PATH = '../../'
 
 TYPES = {
     "keynote": "Keynote",
-    "panel": "Discussion",
+    #"panel": "Discussion",
     "event": "Event",
     "person": "Person",
     'committee': "Committee",
     "Performance": "Performance",
-    "Paper-Long": "Paper",
-    "Paper-Short": "Paper",
-    "Community-Written": "Community Report Paper",
+    "Papers": "Paper",    
+    #"Community-Written": "Community Report Paper",
     "Workshop": "Workshop",
-    "Community-Video": "Community Report Video",
-    "Video-Long": "Video",
-    "Video-Short": "Video"
+    #"Community-Video": "Community Report Video",
+    #"Video-Long": "Video",
+    #"Video-Short": "Video"
 }
 
 store = {}
@@ -56,7 +55,7 @@ now = datetime.now()
 
 
 # prepare folders for output
-for folder in ["performance", "person", "workshop", "video", "paper", "keynote", "event", "other", "assets"]:
+for folder in ["performance", "person", "workshop", "paper", "keynote", "event", "other", "assets"]:
     path = CAT_OUT_PATH + folder + "/"
     if not os.path.exists(path):
         os.makedirs(path)
@@ -679,7 +678,9 @@ def render_event_list(title, list):
 def render_catalogue_index():
     c = ""
     
-    #c += render_event_list("Paper Presentations", ["paper-session-1", "paper-session-2", "paper-session-3", "paper-session-4", "paper-session-5"])
+    c += render_event_list("Paper Presentations", ["papers-1","papers-2","papers-3","papers-4","papers-5","papers-6" ])
+
+    c += render_event_list("Poster Presentations and Demos", ["demo-poster-1","demo-poster-2","demo-poster-3"])
 
     #c += render_event_list("Community Reports", ["community-session-1", "community-session-2"])
 

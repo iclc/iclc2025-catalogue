@@ -8,6 +8,9 @@ submission_type: Papers
 time: Wednesday 28th, 15:30h-16:30h
 contributors:
 - person: $blasco-soplon-laia
+- person: $berga-carreras-quelic
+- person: $mor-enric
+- person: $chacon-perez-jonathan
 
 ---
 

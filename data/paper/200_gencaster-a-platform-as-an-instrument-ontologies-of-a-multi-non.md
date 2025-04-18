@@ -8,6 +8,7 @@ submission_type: Papers
 time: Friday 30th, 12h-13:30h
 contributors:
 - person: $scheiba-dennis
+- person: $aubry-vinzenz
 
 ---
 

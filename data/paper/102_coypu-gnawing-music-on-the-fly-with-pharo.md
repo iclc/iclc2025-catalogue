@@ -8,7 +8,8 @@ submission_type: Papers
 time: Thursday 29th, 14:30-15:30h
 contributors:
 - person: $cipriani-domenico
-
+- person: $jordan-montano-sebastian
+- person: $palumbo-nahuel
 ---
 
 # $ABSTRACT

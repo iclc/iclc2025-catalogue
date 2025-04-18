@@ -8,6 +8,8 @@ submission_type: Papers
 time: Wednesday 28th, 15:30h-16:30h
 contributors:
 - person: $dupras-martin
+- person: $holland-simon
+- person: $mulholland-paul
 
 ---
 

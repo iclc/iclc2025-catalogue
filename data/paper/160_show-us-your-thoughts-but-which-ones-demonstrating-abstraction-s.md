@@ -9,7 +9,15 @@ time: Friday 30th, 14:30-15:30h
 contributors:
 - person: $reppel-niklas
 - person: $paz-ivan
+- person: $cowlishaw-tim
 - person: $fraser-glen
+- person: $hoogland-timo
+- person: $romagosa-bernat
+- person: $princic-luka
+- person: $nacenta-lluis
+- person: $mugica-julia
+- person: $pibernat-roger
+- person: $ballweg-holger
 
 ---
 
