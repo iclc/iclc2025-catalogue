@@ -6,8 +6,10 @@ last_name: Gerard
 first_name: Roma
 alias: null
 affiliations:
-- TBD
+- University of West London
 ---
 
-TBD
+Gerard Roma releases and performs experimental electronic and computer music under different aliases. His work includes live coding, corpus-based music and participatory performance, often chasing some fragile balance between minimalism and chaos. The 0001 project investigates live coding with low-complexity signals.
+
+https://g-roma.github.io
 

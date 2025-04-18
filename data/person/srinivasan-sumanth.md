@@ -4,10 +4,10 @@ status: proof
 type: person
 last_name: Sumanth
 first_name: Srinivasan
-alias: null
+alias: Reckoner
 affiliations:
 - TBD
 ---
 
-TBD
+Reckoner is a New York-based computer-songwriter project by Sumanth Srinivasan. Drawing from krautrock, trip hop and glitch, his music is a fusion of live sampling, guitar, live coded rhythms and melodic vocals. Reckoner has released a full length album, several EPs and recently toured Asia.
 
