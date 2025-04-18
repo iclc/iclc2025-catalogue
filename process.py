@@ -235,7 +235,7 @@ def render_schedule(event, do_hide=True, do_link=True, no_time=False, no_small=F
             vis = store[item["visuals"][1:]]
             vis_cont = vis["contributors"][0]["person"][1:]
             vis_person = store[vis_cont]
-            vis_auth = render_name(vis_person, vis["contributors"][0].get("display"))
+            vis_auth = render_name(vis_person, display="reverse")
 
             vis_title = vis['title']
 
