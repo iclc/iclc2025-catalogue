@@ -23,5 +23,13 @@ contributors:
 
 # $ABSTRACT
 
-TBD
+Since the inception of live coding, but especially in the last 10 years, 
+a central endeavor of the live coding community has been the development of *domain-specific languages* (DSLs), at various degrees of abstraction.
+In this article, we first discuss the role of abstraction in live coding. 
+Then, we demonstrate and analyze the abstraction levels of different DSLs, based on implementations of Steve Reich's *Clapping Music* (a minimalist algorithmic 
+piece), and discuss the resulting affordances. The hypothesis we are supporting is that abstraction 
+is instrumental in highlighting certain aspects of live coding, by determining 
+which details a performer has to focus on during a live performance, which aspects of the code 
+(and the thought process) are exposed, and which ones are hidden.
+
 

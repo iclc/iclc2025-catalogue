@@ -14,5 +14,5 @@ contributors:
 
 # $ABSTRACT
 
-TBD
+In this paper we explore the Absolute Relativity strategy for mapping controllers to sound processes that are also being played in Live Coding performances.
 
