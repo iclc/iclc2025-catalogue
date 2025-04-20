@@ -4,9 +4,9 @@ status: proof
 type: person
 first_name: Sol
 last_name: Sarratea
-alias: null
+alias: olquemals
 affiliations:
-- LOL2
+- LOL2 (League of Livecoding Leipzig)
 ---
 
 Sol Sarratea is a programmer and computational artist based in Leipzig, who uses code as her
