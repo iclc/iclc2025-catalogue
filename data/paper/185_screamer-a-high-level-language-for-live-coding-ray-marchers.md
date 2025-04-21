@@ -7,7 +7,7 @@ type: paper
 submission_type: Papers
 time: Thursday 29th, 10h-11:30h
 contributors:
-- person: $roberts-charles
+- person: $roberts-charlie
 
 ---
 
