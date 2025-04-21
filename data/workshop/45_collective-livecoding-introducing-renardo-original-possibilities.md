@@ -7,6 +7,7 @@ submission_type: Workshop
 time: 16:15 - 18:15
 contributors:
 - person: $gavoty-elie
+- person: $dejardin-jules
 
 ---
 
