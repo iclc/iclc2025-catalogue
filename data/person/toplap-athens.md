@@ -13,6 +13,7 @@ Kosmas Giannoutakis is a composer, media artist, computer musician, and research
 upstate New York. He engages in artistic and scholarly endeavors that explore contemporary
 advancements in technology, such as Artificial Intelligence and Distributed Ledger Technology,
 as well as theoretical concepts including critical posthumanities and speculative materialisms.
+
 Panagiota Anastasopoulou is pursuing her PhD studies at the Universitat Pompeu Fabra (UPF)
 within the Music Technology Group (MTG) and contributes as a member of the Freesound
 project. Her research is centered on the tasks of characterizing and retrieving audio from large
@@ -20,7 +21,7 @@ and diverse sound collections. With a strong foundation in musicology, she bring
 perspective to the technological advancements emerging from her research by considering their
 practical applications for users and their impact on artistic expression. Beyond her academic
 pursuits, she is an artist (aka allholy) who continues to create music and actively engages with
-artistic communities. She is a practitioner of live coding and currently participates in TOPLAP
+artistic communities. She is a practitioner of live coding and currently participates in the TOPLAP
 Athens and TOPLAP Barcelona communities.
 
 Georgios Diapoulis is an adjunct lecturer in the Unit of Interaction Design, at Chalmers
