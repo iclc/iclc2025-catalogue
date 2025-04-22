@@ -4,7 +4,7 @@ status: proof
 type: person
 first_name: Katarina
 last_name: Hoeger
-alias: null
+alias: Cougars Are Cats Too
 affiliations:
 - LiveCode.NYC
 - Music Community Lab

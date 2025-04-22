@@ -4,7 +4,7 @@ status: proof
 type: person
 first_name: Jessica
 last_name: Stringham
-alias: null
+alias: this.xor.that
 affiliations:
 - MIT Media Lab
 ---
