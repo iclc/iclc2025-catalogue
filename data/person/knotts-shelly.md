@@ -6,7 +6,7 @@ first_name: Shelly
 last_name: Knotts
 alias: null
 affiliations:
-- Independent
+- Creative Code Club Newcastle
 ---
 
 Shelly Knotts produces live-coded and network music performances and projects which explore

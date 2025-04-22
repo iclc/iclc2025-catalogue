@@ -6,7 +6,7 @@ first_name: Holger
 last_name: Ballweg
 alias: null
 affiliations:
-- Independent
+- Creative Code Club Newcastle
 ---
 
 Holger Ballweg is a live coder and programmer living in Newcastle upon Tyne
