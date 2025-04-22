@@ -6,6 +6,7 @@ event_type: Workshops
 title: Workshop Session 2
 venue: null
 date_time: Saturday, May 31st, 14:00&#8209;16:00
+tickets_url: https://entradium.com/en/events/iclc-2025-workshops
 schedule:
   -  time: 14:00 - 16:00
      item: $an-introduction-into-tidallooper

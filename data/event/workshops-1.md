@@ -6,6 +6,7 @@ event_type:
 title: Workshop Session 1
 venue: null
 date_time: Saturday, May 31st, 11:00&#8209;13:00
+tickets_url: https://entradium.com/en/events/iclc-2025-workshops
 schedule:
   -  time: 11:00 - 13:00
      item: $cadavre-logicielle-or-the-live-coder-s-exquisite-corpse

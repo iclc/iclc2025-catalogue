@@ -6,6 +6,7 @@ event_type: Workshops
 title: Workshop Session 3
 venue: null
 date_time: Saturday, May 31st, 16:15&#8209;18:15
+tickets_url: https://entradium.com/en/events/iclc-2025-workshops
 schedule:
   -  time: 16:15 - 18:15
      item: $live-coding-and-audio-synthesis-in-the-browser-with-wax
