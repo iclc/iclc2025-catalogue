@@ -6,7 +6,7 @@ first_name: Lu
 last_name: Wilson
 alias: null
 affiliations:
-- Independent
+- Tentpole
 ---
 
 Lu Wilson is a creative technologist from London with a background in teaching.
