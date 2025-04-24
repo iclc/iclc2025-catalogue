@@ -10,7 +10,6 @@ schedule:
   -  item: $gate-dance
   -  item: $trans-fail-combodagen
   -  item: $as-above-so-below
-  -  item: $node-trash-can-nostalgia
   -  item: $synthrospection-exploring-audio-feedback-in-live-coding
   -  item: $dialogues-of-feedback
 
