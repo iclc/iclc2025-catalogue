@@ -44,7 +44,7 @@ TYPES = {
     #"Community-Written": "Community Report Paper",
     "Workshop": "Workshop",
     #"Community-Video": "Community Report Video",
-    #"Video-Long": "Video",
+    "Installation": "Installation",
     #"Video-Short": "Video"
 }
 
@@ -55,7 +55,7 @@ now = datetime.now()
 
 
 # prepare folders for output
-for folder in ["performance", "person", "workshop", "paper", "keynote", "event", "other", "assets"]:
+for folder in ["performance", "person", "workshop", "paper", "keynote", "event", "installation", "other", "assets"]:
     path = CAT_OUT_PATH + folder + "/"
     if not os.path.exists(path):
         os.makedirs(path)
@@ -498,6 +498,26 @@ def content_for_performance(item):
         {proof_abstract}
     """
 
+def content_for_installation(item):
+    body = get_body_chunk(item["body"], "$PROGRAM_NOTE")
+
+    proof_abstract = ""
+    if PROOF_INCLUDE_ABSTRACTS:
+        proof_abstract += "<h4>Abstract</h4>"
+        proof_abstract += proof_abstract_disclaimer
+        proof_abstract += transform_body(get_body_chunk(item["body"], "$ABSTRACT"))
+
+    return f"""
+        <p><strong>{build_contributors_list(item, ", ")}</strong></p>
+        <p class="list-header">Was shown at:</p>
+        <ul>
+            <li>{render_associated_event(item)}</li>
+        </ul>
+        <h4>Program Notes</h4>
+        {transform_body(body)}
+        {proof_abstract}
+    """
+
 def content_for_paper(item):
     body = get_body_chunk(item["body"], "$ABSTRACT")
 
@@ -548,28 +568,7 @@ def content_for_workshop(item):
         {proof_abstract}
     """
 
-def content_for_video(item):
-    body = get_body_chunk(item["body"], "$PROGRAM_NOTE")
 
-    yt_string = ""
-    if item.get('youtube_url'):
-        yt_string = f"<p class='mt-4'><strong><a href='{item['youtube_url']}'>Watch Video on YouTube</a></strong></a></p>"
-
-
-    presented = ""
-    if item["submission_type"] == "Community-Video":
-        presented = f"""<p class="list-header">Was presented at:</p>
-        <ul>
-            <li>{render_associated_event(item)}</li>
-        </ul>"""
-
-    return f"""
-        <p><strong>{build_contributors_list(item, ", ")}</strong></p>
-        {yt_string}
-        {presented}
-        <h4>Description</h4>
-        {transform_body(body)}
-    """
 
 def render_photo_gallery(item):
     if item.get("photo_gallery"):
@@ -635,12 +634,12 @@ def type_description_for_item(item):
 def content_for_item(item):
     if item["type"] == "person": return content_for_person(item)
     if item["type"] == "performance": return content_for_performance(item)
+    if item["type"] == "installation": return content_for_installation(item)
     if item["type"] == "paper": return content_for_paper(item)
     if item["type"] == "keynote": return content_for_keynote(item)
     if item["type"] == "workshop": return content_for_workshop(item)
     if item["type"] == "event": return content_for_event(item)
     if item["type"] == "other": return content_for_other(item)
-    if item["type"] == "video": return content_for_video(item)
 
 
     return "<h2>No Content</h2>"
@@ -698,9 +697,9 @@ def render_catalogue_index():
     ])
     
     c += render_event_list("Workshops", ["workshops-1","workshops-2", "workshops-3"])
-
-    #c += "<h4 class='mt-5'><a href='catalogue/other/video-gallery.html'>Video Gallery</a></h4>";
-
+    
+    c += "<h4 class='mt-5'><a href='catalogue/other/installations.html'>Installations</a></h4>";
+    
     #c += "<h4 class='mt-5'><a href='catalogue/other/community-report-videos.html'>Community Report Videos</a></h4>";
 
 
