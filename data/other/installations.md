@@ -11,4 +11,12 @@ schedule:
      venue: UOC
   -  item: $installation-life-codes
      venue: UOC
+  -  item: $installation-abstraction-minified
+     venue: UOC
+  -  item: $installation-embodied-code-interactive-liveness
+     venue: UOC
+  -  item: $installation-cyborg-cycles
+     venue: UOC
+  -  item: $installation-composite-inhabiting
+     venue: UOC
 ---
