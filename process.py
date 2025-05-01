@@ -596,11 +596,17 @@ def content_for_event(item):
 
         if item.get("venue_address"):
             venue_string = f"{venue_string} ({item['venue_address']})"
-
+            
+    poster_string = ""
+    if item.get("poster"):        
+        poster = item.get("poster")
+        
+        poster_string = f"<img style=\"all: initial; width:100%;\" src=\"/2025/catalogue/assets/{poster}\" alt=\"poster for this event\"><br><br>"
+        
     tickets_string = ""
     if item.get('tickets_url'):
         tickets_string = f"<br><br><strong>Find tickets <a href='{item['tickets_url']}'>here</strong>!</a>"
-
+        
     chair_string = ""
     if item.get('chair'):
         chair = store[item['chair'][1:]]
@@ -609,9 +615,11 @@ def content_for_event(item):
     return f"""
         <p><strong>{item["date_time"]}</strong><br>
         {venue_string}{tickets_string}{chair_string}{render_stream_recording_url(item)}{render_photo_gallery(item)}</p>
-        {transform_body(body)}
+        {transform_body(body)}    
         <h4>{schedule_title}</h4>
         {schedule}
+        <br>
+        {poster_string}
     """
 
 def content_for_other(item):
