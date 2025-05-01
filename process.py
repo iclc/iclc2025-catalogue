@@ -599,9 +599,8 @@ def content_for_event(item):
             
     poster_string = ""
     if item.get("poster"):        
-        poster = item.get("poster")
-        
-        poster_string = f"<img style=\"all: initial; width:100%;\" src=\"/2025/catalogue/assets/{poster}\" alt=\"poster for this event\"><br><br>"
+        poster = item.get("poster")        
+        poster_string = f"<br><img style=\"all: initial; width:100%;\" src=\"/2025/catalogue/assets/{poster}\" alt=\"poster for this event\">"
         
     tickets_string = ""
     if item.get('tickets_url'):
@@ -617,8 +616,7 @@ def content_for_event(item):
         {venue_string}{tickets_string}{chair_string}{render_stream_recording_url(item)}{render_photo_gallery(item)}</p>
         {transform_body(body)}    
         <h4>{schedule_title}</h4>
-        {schedule}
-        <br>
+        {schedule}        
         {poster_string}
     """
 
