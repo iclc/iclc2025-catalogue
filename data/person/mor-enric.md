@@ -6,7 +6,7 @@ first_name: Enric
 last_name: Mor
 alias: null
 affiliations:
-- UOC
+- Universitat Oberta de Catalunya (UOC)
 - Toplap Barcelona
 ---
 
