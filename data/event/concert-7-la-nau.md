@@ -6,6 +6,8 @@ event_type: Concert
 title: algo&#58;rave - Live coding beyond computers
 venue: La Nau
 date_time: Friday, May 30, 21:30 - 02:00 (Doors&#58; 21:30, Begin&#58; 21:55)
+poster: poster_nau.png
+tickets_url: https://entradium.com/en/events/algo-rave
 schedule:
   -  item: $0-incidental-effects-c4-c5-c6
      visuals: $untitled

@@ -7,6 +7,7 @@ title: re&#58;so&#58;nant &#124; di&#58;alogues - Acoustic, analog and digital c
 venue: Universitat Pompeu Fabra - Phonos - Sala Aranyó
 date_time: Tuesday, May 27, 18:00 - 20:30 (Doors&#58; 18:00, Begin&#58; 18:30)
 poster: opening_concert.png
+tickets_url: https://entradium.com/en/events/iclc-2025-opening-concert
 schedule:
   -  item: $mass-spectra
   -  item: $a-dialog-between-live-coded-sound-and-visuals
