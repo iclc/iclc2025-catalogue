@@ -1,7 +1,7 @@
 ---
 slug: jazz-inspired-improvisation-in-tidalcycles
 status: proof
-title: Jazz-inspired improvisation in TidalCycles
+title: Jazz-inspired chromatic inflexion for melodic improvisation in TidalCycles
 event: papers-4
 type: paper
 submission_type: Papers
