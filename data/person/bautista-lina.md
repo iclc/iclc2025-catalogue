@@ -6,7 +6,7 @@ first_name: Lina
 last_name: Bautista
 alias: null
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 - Axolot
 ---
 

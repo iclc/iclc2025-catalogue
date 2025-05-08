@@ -6,7 +6,7 @@ first_name: Iván
 last_name: Paz
 alias: null
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 - Axolot
 ---
 

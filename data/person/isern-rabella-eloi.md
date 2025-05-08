@@ -6,7 +6,7 @@ first_name: Eloi
 last_name: Isern Rabella
 alias: Eloi el Bon Noi
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 ---
 
 Eloi Isern / AKA Elo el Bon Noi (1978, Centelles) is a composer and

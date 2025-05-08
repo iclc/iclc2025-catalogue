@@ -9,14 +9,10 @@ affiliations:
 - Berklee College of Music
 ---
 
-I am an improvising electronic musician, digital luthier, educator, and labor
-organizer trained as an archivist who transparently resignifies archaic tools and
-materials to reveal how gendered technologies mediate gendered labors. I often
-focus on memory as a site of critical agency and accountability. I value machines
-as musical instruments for their patience and their capacity to remember. In
-my creative practice, I challenge how ‘authenticity’ is performed in the creation
-of electronic musical instruments; how ‘virtuosity’ is performed on electronic
-musical instruments; and how ‘genius’ is performed in institutional histories. I
-am employed as an Assistant Professor of Electronic Production and Design |
-Creative Coding at the Berklee College of Music in Boston, Massachusetts, U.S.,
-and Councilor with MS1140 American Federation of Teachers Massachusetts.
+I am a Boston, USA-based electronic musician, educator, and labor organizer who resignifies archaic tools and materials in real-time to reveal how gendered technologies mediate gendered labors. I value machines for their patience and their capacity to remember. 
+
+I hold a B.Mus in French horn performance from the City University of New York (Copland School of Music); a MLIS in digital media from San José State University; a MA in music composition from Mills College; and a PhD in music composition and computer technologies from the University of Virginia. 
+
+I am employed as an Assistant Professor of Electronic Production and Design | Creative Coding at the Berklee College of Music, and Vice President of Full-Time Faculty with MS1140 American Federation of Teachers Massachusetts. 
+
+https://racheldevorah.studio/

@@ -6,7 +6,7 @@ first_name: Chris
 last_name: Kiefer
 alias: null
 affiliations:
-- Independent
+- University of Sussex
 ---
 
 Chris performs under the name Luuma. He’s been playing livecoding gigs since

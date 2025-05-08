@@ -6,7 +6,7 @@ first_name: Roger
 last_name: Pibernat
 alias: null
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 - Axolot
 ---
 

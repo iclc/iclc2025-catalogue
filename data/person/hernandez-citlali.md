@@ -6,7 +6,7 @@ first_name: Citlali
 last_name: Hernández
 alias: Turbulente
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 - Axolot
 ---
 

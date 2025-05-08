@@ -6,7 +6,7 @@ first_name: Alicia
 last_name: Champlin
 alias: null
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 ---
 
 Alicia Champlin is an American intermedial artist and researcher from Maine, based in

@@ -6,7 +6,7 @@ first_name: Ramon
 last_name: Casamajó
 alias: null
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 ---
 
 Ramon Casamajó is a musician and educator with a long career in multiple projects,

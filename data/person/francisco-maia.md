@@ -6,7 +6,7 @@ first_name: Maia
 last_name: Francisco
 alias: null
 affiliations:
-- Toplap Barcelona
+- TOPLAP Barcelona
 ---
 
 Maia Francisco (Barcelona,1976) is a researcher, sound artist and an experimental musician working with piano, electronics and livecode. She holds a

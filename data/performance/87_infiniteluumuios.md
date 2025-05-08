@@ -9,6 +9,7 @@ time: Tuesday, May 27, 18:00 - 20:30
 contributors:
 - person: $kiefer-chris
 - person: $kyriakoudis-dimitris
+- person: $symons-steve
 
 ---
 

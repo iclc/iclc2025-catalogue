@@ -7,7 +7,7 @@ last_name: Anastasopoulou
 alias: allholy
 affiliations:
 - Universitat Pompeu Fabra (Music Technology Group)
-- Toplap Barcelona/Athens
+- TOPLAP Barcelona/Athens
 ---
 
 Panagiota Anastasopoulou, aka allholy, is pursuing her PhD studies at the Universitat Pompeu Fabra (UPF) 
