@@ -2,7 +2,7 @@
 slug: farkas-gergo
 status: proof
 type: person
-first_name: Gergo D.
+first_name: Gergő D.
 last_name: Farkas
 alias: null
 affiliations:
