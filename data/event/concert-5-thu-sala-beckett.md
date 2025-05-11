@@ -11,7 +11,6 @@ tickets_url: https://entradium.com/en/events/re-veal-r-eco-de
 schedule:
   -  item: $headspace
   -  item: $sensing-the-alice-holt-forest
-  -  item: $jitr-cchitr-the-extended-gong-ensemble
   -  item: $rilf
   -  item: $46-875
   -  item: $live-decoded-cinema
