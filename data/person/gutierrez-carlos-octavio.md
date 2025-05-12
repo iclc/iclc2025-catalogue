@@ -6,7 +6,9 @@ first_name: Carlos Octavio
 last_name: Gutierrez
 alias: null
 affiliations:
-- TBD
+- Universidad Nacional Autónoma de México
+- Universidad Autónoma del Estado de México 
+
 ---
 
 Carlos Octavio Gutiérrez (Toluca, Mexico. 1983). He holds a Bachelor's degree in Communication and a Master's degree in Music (with a specialization in Music Technology). He is currently pursuing a Ph.D. in Musicology. As a university professor, he has taught subjects such as Sound Art, Interactive Art, and Creative Coding, focusing his academic interests on music production, algorithmic art, and free software.

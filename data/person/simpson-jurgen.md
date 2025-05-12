@@ -6,7 +6,7 @@ first_name: Jürgen
 last_name: Simpson
 alias: null
 affiliations:
-- University of Limerick
+- Digital Media & Art Research Centre, University of Limerick (IRL)
 ---
 
 Jürgen Simpson is an Irish composer and curator working in diverse ways across wideranging contexts. His music embraces contrast and interdisciplinarity, engaging across the fields of film, dance and installation art. Though explorations of acoustic instruments and voice feature throughout his music, his dedication to ‘live electronics’ has been a central theme. Modular synthesis has been a key focus since the 1990’s, employed across his works for opera and dance as well as a decade performing with Dublin band “The Jimmy Cake”. 

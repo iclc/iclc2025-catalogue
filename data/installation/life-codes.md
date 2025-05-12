@@ -1,13 +1,13 @@
 ---
 slug: installation-life-codes
 status: proof
-title: Live Codes
+title: Life Codes
 type: installation
 submission_type: Installation
 contributors:
-- person: $borgeat-patrick
 - person: $cardenas-alexandra
 - person: $pibernat-roger
+- person: $borgeat-patrick
 - person: $khudiakov-nikita
 
 ---

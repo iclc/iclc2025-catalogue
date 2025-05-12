@@ -20,6 +20,7 @@ Buffer capacitors enable a quick switch between riders - don’t let the Raspber
 
 Pedal, code, and play!
 
+<img src="catalogue/assets/madridbig.jpg" style="all: initial;" alt="Logo foro cultural de austria madrid"></img>
 
 # $ABSTRACT
 
