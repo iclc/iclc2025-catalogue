@@ -24,9 +24,6 @@ schedule:
      item: $hy5
      venue: Canòdrom - Sala Hipatia Alexandria
   -  time: 14:00 - 16:00
-     item: $audio-visual-performance-working-group-advanced-study-for-and
-     venue: Canòdrom - Sala Ma Tere Ruiz
-  -  time: 14:00 - 16:00
      item: $crafting-synthesized-instruments-for-livecoded-performances-the
      venue: Canòdrom - Sala Ada Lovelace 
 ---
