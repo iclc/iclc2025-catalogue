@@ -7,6 +7,7 @@ submission_type: Workshop
 time: 11:00 - 13:00
 contributors:
 - person: $mclean-alex
+- person: $morrison-ray
 - person: $paz-ivan
 - person: $sicchio-kate
 - person: $wilson-lizzie
