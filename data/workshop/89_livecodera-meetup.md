@@ -6,7 +6,6 @@ type: workshop
 submission_type: Workshop
 time: 14:00 - 16:00
 contributors:
-- person: $alonso-florencia
 - person: $bautista-lina
 - person: $knotts-shelly
 
