@@ -7,8 +7,6 @@ submission_type: Workshop
 time: 16:15 - 18:15
 contributors:
 - person: $cella-michael
-- person: $camci-anil
-
 ---
 
 # $PROGRAM_NOTE
