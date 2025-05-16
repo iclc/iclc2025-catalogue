@@ -489,7 +489,7 @@ def content_for_performance(item):
 
     return f"""
         <p><strong>{build_contributors_list(item, ", ")}</strong></p>
-        <p class="list-header">Was performed at:</p>
+        <p class="list-header">Will be performed at:</p>
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>
@@ -509,7 +509,7 @@ def content_for_installation(item):
 
     return f"""
         <p><strong>{build_contributors_list(item, ", ")}</strong></p>
-        <p class="list-header">Was shown at:</p>
+        <p class="list-header">Will be shown at:</p>
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>
@@ -527,7 +527,7 @@ def content_for_paper(item):
 
     return f"""
         <p><strong>{build_contributors_list(item, ", ")}</strong></p>
-        <p class="list-header">Was presented at:</p>
+        <p class="list-header">Will be presented at:</p>
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>
@@ -542,7 +542,7 @@ def content_for_keynote(item):
     # put in time and place
     return f"""
         <p><strong>{build_contributors_list(item, ", ")}</strong></p>
-        <p class="list-header">Was presented at:</p>
+        <p class="list-header">Will be presented at:</p>
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>
