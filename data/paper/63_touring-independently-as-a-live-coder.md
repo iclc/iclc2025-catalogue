@@ -8,7 +8,7 @@ submission_type: Papers
 time: Friday 30th, 14:30-15:30h
 contributors:
 - person: $srinivasan-sumanth
-- person: $jiahui-zhu-casta
+- person: $zhu-casta-jiahui
 - person: $alexander-cameron
 
 ---
