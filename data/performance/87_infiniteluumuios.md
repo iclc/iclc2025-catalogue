@@ -16,7 +16,7 @@ contributors:
 # $PROGRAM_NOTE
 
 Infiniteluumuios experiments with integrating live coding and modular synthesis within a
-two-way improvisation, sharing voltages alongside bytes. Live coding and modular
+three-way improvisation, sharing voltages alongside bytes. Live coding and modular
 synthesis differ in many ways, especially in their interaction paradigms and approaches to
 precision, but they also share many commonalities in creating and manipulating signals—
 after all, both are different but complementary substrates for time-varying
