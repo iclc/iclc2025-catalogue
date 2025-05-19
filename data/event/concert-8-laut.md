@@ -13,5 +13,6 @@ schedule:
   -  item: $trans-fail-combodagen
   -  item: $synthrospection-exploring-audio-feedback-in-live-coding
   -  item: $dialogues-of-feedback
+  -  item: $galloping-the-mooflod
 
 ---

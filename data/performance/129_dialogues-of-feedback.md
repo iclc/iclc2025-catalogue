@@ -1,7 +1,7 @@
 ---
 slug: dialogues-of-feedback
 status: proof
-title: Dialogues of Feedback
+title: Signals
 event: concert-8-laut
 type: performance
 submission_type: Performance
