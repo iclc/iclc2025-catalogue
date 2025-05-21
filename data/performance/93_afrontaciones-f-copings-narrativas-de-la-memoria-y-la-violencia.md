@@ -24,6 +24,8 @@ this convergence of the tangible and the virtual, I invite viewers to explore th
 and storytelling. The collision of physical and virtual realms within this setup creates a space where narratives
 resonate.
 
+Many thanks to Luis Navarro Del Angel for live translation during the performance.
+
 # $ABSTRACT
 
 
