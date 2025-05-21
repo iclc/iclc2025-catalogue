@@ -20,7 +20,6 @@ modern society. Fifty years later, as artificial intelligence reshapes industrie
 and creativity, we pay tribute to this classic by exploring large language models
 (LLMs) in live coding.
 
-Proposal for Live Performances 3
 This reinterpretation involves a live-coded music and visuals performance
 using SuperCollider, where a human also interacts with an AI model—"The
 Machine." Visuals generated with Animatron illustrate the feedback loop
