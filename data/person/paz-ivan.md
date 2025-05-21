@@ -8,6 +8,7 @@ alias: null
 affiliations:
 - TOPLAP Barcelona
 - Axolot
+- Elisava, Barcelona School of Design and Engineering (UVic-UCC)
 ---
 
 Iván Paz has a background in physics, mathematics, and computer science. He
