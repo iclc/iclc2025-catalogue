@@ -23,7 +23,4 @@ schedule:
   -  time: 16:15 - 18:15
      item: $making-living-patterns-with-cellpond
      venue: Canòdrom - Sala Margarita Salas
-  -  time: 16:15 - 18:15
-     item: $hydra-fcs-live-coding-visuals-with-algebraic-geometry
-     venue: Canòdrom - Sala Kamal Ranadive
 ---
