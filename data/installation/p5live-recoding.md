@@ -1,7 +1,7 @@
 ---
-slug: installation-p5live-recording
+slug: installation-p5live-recoding
 status: proof
-title: P5LIVE Recording
+title: P5LIVE Recoding
 type: installation
 submission_type: Installation
 contributors:

@@ -7,7 +7,7 @@ title: Installations
 venue: UOC
 date_time: May 27th - May 31st
 schedule:
-  -  item: $installation-p5live-recording
+  -  item: $installation-p5live-recoding
      venue: UOC
   -  item: $installation-life-codes
      venue: UOC
