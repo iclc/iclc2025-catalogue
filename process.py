@@ -689,7 +689,7 @@ def render_catalogue_index():
 
     #c += render_event_list("Community Reports", ["community-session-1", "community-session-2"])
 
-    #c += render_event_list("Keynote Sessions", ["keynote-1", "keynote-2", "keynote-3"])
+    c += render_event_list("Keynote Sessions", ["keynote-1", "keynote-2", "keynote-3"])
     
     c += render_event_list("Concerts", [
         "opening-concert",
