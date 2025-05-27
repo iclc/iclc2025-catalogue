@@ -10,7 +10,7 @@ contributors:
 - person: $romagosa-bernat
 - person: $mor-enric
 - person: $maloney-john
-
+doi_link: https://doi.org/10.5281/zenodo.15526648
 ---
 
 # $ABSTRACT

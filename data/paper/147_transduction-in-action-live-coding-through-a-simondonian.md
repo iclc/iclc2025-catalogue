@@ -8,7 +8,7 @@ submission_type: Papers
 time: Wednesday 28th, 12h-13:30h
 contributors:
 - person: $giannoutakis-kosmas
-
+doi_link: https://doi.org/10.5281/zenodo.15526768
 ---
 
 # $ABSTRACT

@@ -8,7 +8,7 @@ submission_type: Papers
 time: Thursday 29th, 10h-11:30h
 contributors:
 - person: $rodriguez-jessica-a
-
+doi_link: https://doi.org/10.5281/zenodo.15527116
 ---
 
 # $ABSTRACT

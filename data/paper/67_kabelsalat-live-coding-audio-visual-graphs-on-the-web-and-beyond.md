@@ -9,7 +9,7 @@ time: Thursday 29th, 12h-13:30h
 contributors:
 - person: $roos-felix
 - person: $forment-raphael-maurice
-
+doi_link: https://doi.org/10.5281/zenodo.15527772
 ---
 
 # $ABSTRACT

@@ -1,14 +1,14 @@
 ---
 slug: screamer-a-high-level-language-for-live-coding-ray-marchers
 status: proof
-title: Screamer -  A high-level language for live coding ray marchers
+title: Screamer - A High-Level Language for Live Coding Ray Marchers
 event: papers-3
 type: paper
 submission_type: Papers
 time: Thursday 29th, 10h-11:30h
 contributors:
 - person: $roberts-charlie
-
+doi_link: https://doi.org/10.5281/zenodo.15527465
 ---
 
 # $ABSTRACT

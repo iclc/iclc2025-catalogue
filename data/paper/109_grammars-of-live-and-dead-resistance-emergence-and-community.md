@@ -1,14 +1,14 @@
 ---
-slug: grammars-of-live-and-dead-resistance-emergence-and-community
+slug: grammars-of-live-and-death-resistance-emergence-and-community
 status: proof
-title: Grammars of Live and Dead -  Resistance, Emergence and Community
+title: Grammars of Live and Death - Resistance, Emergence and Community
 event: papers-2
 type: paper
 submission_type: Papers
 time: Wednesday 28th, 12h-13:30h
 contributors:
 - person: $paz-ivan
-
+doi_link: https://doi.org/10.5281/zenodo.15526903
 ---
 
 # $ABSTRACT
