@@ -1,7 +1,7 @@
 ---
 slug: toplap-athens-a-networked-live-coding-community
 status: proof
-title: TOPLAP Athens -  A networked live coding community
+title: TOPLAP Athens -  A Networked Live Coding Community
 event: papers-5
 type: paper
 submission_type: Papers

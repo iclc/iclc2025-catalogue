@@ -11,7 +11,7 @@ contributors:
 - person: $berga-carreras-quelic
 - person: $mor-enric
 - person: $chacon-perez-jonathan
-https://doi.org/10.5281/zenodo.15530244
+doi_link: https://doi.org/10.5281/zenodo.15530244
 ---
 
 # $ABSTRACT

@@ -1,7 +1,7 @@
 ---
 slug: gencaster-a-platform-as-an-instrument-ontologies-of-a-multi-non
 status: proof
-title: Gencaster- A Platform as an Instrument
+title: Gencaster - A Platform as an Instrument
 event: papers-6
 type: paper
 submission_type: Papers

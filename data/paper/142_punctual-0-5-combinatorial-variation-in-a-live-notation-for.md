@@ -1,7 +1,7 @@
 ---
 slug: punctual-0-5-combinatorial-variation-in-a-live-notation-for
 status: proof
-title: Punctual 0.5 -  Combinatorial variation in a live notation for unified audiovisual improvisations
+title: Punctual 0.5 - Combinatorial Variation in a Live Notation for Unified Audiovisual Improvisations
 event: papers-3
 type: paper
 submission_type: Papers
