@@ -5,7 +5,7 @@ status: ready
 event_type: Concert
 title: temporality of shape
 venue: Universitat Oberta de Catalunya
-date_time: Friday, May 30, 17:00 - 18:00
+date_time: Friday, May 30, 16:30 - 17:30
 poster: poster_uoc.png
 schedule:
   -  item: $the-printer-jam
