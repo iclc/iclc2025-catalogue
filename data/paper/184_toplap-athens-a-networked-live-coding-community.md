@@ -8,7 +8,7 @@ submission_type: Papers
 time: Friday 30th, 10h-11:30h
 contributors:
 - person: $toplap-athens
-
+doi_link: https://doi.org/10.5281/zenodo.15528465
 ---
 
 # $ABSTRACT

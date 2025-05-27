@@ -9,7 +9,7 @@ time: Thursday 29th, 14:30-15:30h
 contributors:
 - person: $xambo-anna
 - person: $roma-gerard
-
+doi_link: https://doi.org/10.5281/zenodo.15527968
 ---
 
 # $ABSTRACT

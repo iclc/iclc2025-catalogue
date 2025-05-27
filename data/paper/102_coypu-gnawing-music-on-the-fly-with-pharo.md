@@ -1,7 +1,7 @@
 ---
 slug: coypu-gnawing-music-on-the-fly-with-pharo
 status: proof
-title: Coypu -  gnawing music on-the-fly with Pharo
+title: Coypu - Gnawing Music On-The-Fly With Pharo
 event: demo-poster-2
 type: paper
 submission_type: Papers
@@ -10,6 +10,7 @@ contributors:
 - person: $cipriani-domenico
 - person: $jordan-montano-sebastian
 - person: $palumbo-nahuel
+doi_link: https://doi.org/10.5281/zenodo.15528063
 ---
 
 # $ABSTRACT

@@ -8,7 +8,7 @@ submission_type: Papers
 time: Wednesday 28th, 15:30h-16:30h
 contributors:
 - person: $gutierrez-carlos-octavio
-
+doi_link: https://doi.org/10.5281/zenodo.15527444
 ---
 
 # $ABSTRACT

@@ -9,7 +9,7 @@ time: Thursday 29th, 14:30-15:30h
 contributors:
 - person: $smith-ryan
 - person: $lawson-shawn
-
+doi_link: https://doi.org/10.5281/zenodo.15528162
 ---
 
 # $ABSTRACT

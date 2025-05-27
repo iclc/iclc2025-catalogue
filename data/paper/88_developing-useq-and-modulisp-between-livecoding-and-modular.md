@@ -1,7 +1,7 @@
 ---
 slug: developing-useq-and-modulisp-between-livecoding-and-modular
 status: proof
-title: Developing uSEQ and ModuLISP -   Between Livecoding and Modular Synthesis
+title: Developing uSEQ and ModuLISP - Between Livecoding and Analogue Modular Synthesis
 event: demo-poster-1
 type: paper
 submission_type: Papers
@@ -9,7 +9,7 @@ time: Wednesday 28th, 15:30h-16:30h
 contributors:
 - person: $kyriakoudis-dimitris
 - person: $kiefer-chris
-
+doi_link: https://doi.org/10.5281/zenodo.15527659
 ---
 
 # $ABSTRACT

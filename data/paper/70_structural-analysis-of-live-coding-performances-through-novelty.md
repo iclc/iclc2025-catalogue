@@ -9,7 +9,7 @@ time: Friday 30th, 10h-11:30h
 contributors:
 - person: $dal-ri-francesco
 - person: $manenti-francesco
-
+doi_link: https://doi.org/10.5281/zenodo.15528439
 ---
 
 # $ABSTRACT

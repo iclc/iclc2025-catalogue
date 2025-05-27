@@ -1,14 +1,14 @@
 ---
 slug: curating-code-fostering-diversity-in-live-coding-through-cross
 status: proof
-title: Curating Code -  Fostering Diversity in Live Coding through Cross-Disciplinary Curation
+title: Curating Code - Fostering Diversity and Interdisciplinary Practices in Live Coding
 event: papers-5
 type: paper
 submission_type: Papers
 time: Friday 30th, 10h-11:30h
 contributors:
 - person: $van-sluijs-fabian
-
+doi_link: https://doi.org/10.5281/zenodo.15528357
 ---
 
 # $ABSTRACT

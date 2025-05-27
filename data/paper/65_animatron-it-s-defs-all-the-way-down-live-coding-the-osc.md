@@ -9,7 +9,7 @@ time: Thursday 29th, 14:30-15:30h
 contributors:
 - person: $fraser-glen
 - person: $pibernat-roger
-
+doi_link: https://doi.org/10.5281/zenodo.15528269
 ---
 
 # $ABSTRACT

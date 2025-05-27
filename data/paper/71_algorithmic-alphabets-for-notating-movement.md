@@ -1,7 +1,7 @@
 ---
-slug: algorithmic-alphabets-for-notating-movement
+slug: algorithmic-alphabets-for-patterns-of-movement
 status: proof
-title: Algorithmic Alphabets for notating movement
+title: Algorithmic Alphabets for Patterns of Movement
 event: papers-1
 type: paper
 submission_type: Papers
@@ -10,7 +10,7 @@ contributors:
 - person: $sicchio-kate
 - person: $mclean-alex
 - person: $iannini-luke
-
+doi_link: https://doi.org/10.5281/zenodo.15526836
 ---
 
 # $ABSTRACT

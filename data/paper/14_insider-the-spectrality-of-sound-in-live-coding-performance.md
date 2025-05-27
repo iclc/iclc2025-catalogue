@@ -1,14 +1,14 @@
 ---
 slug: insider-the-spectrality-of-sound-in-live-coding-performance
 status: proof
-title: Insider -  The Spectrality of Sound in Live Coding Performance
+title: Insider - The Spectrality of Sound in Live Coding Performance
 event: papers-5
 type: paper
 submission_type: Papers
 time: Friday 30th, 10h-11:30h
 contributors:
 - person: $batsis-dimitris
-
+doi_link: https://doi.org/10.5281/zenodo.15528328
 ---
 
 # $ABSTRACT
