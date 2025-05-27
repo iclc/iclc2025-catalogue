@@ -1,7 +1,7 @@
 ---
-slug: transduction-in-action-live-coding-from-a-simondonian
+slug: transduction-in-action-live-coding-through-a-simondonian
 status: proof
-title: Transduction in Action - Live Coding from a Simondonian Perspective
+title: Transduction in Action - Live Coding through a Simondonian Perspective
 event: papers-2
 type: paper
 submission_type: Papers
