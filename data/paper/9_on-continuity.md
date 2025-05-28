@@ -8,7 +8,7 @@ submission_type: Papers
 time: Wednesday 28th, 12h-13:30h
 contributors:
 - person: $groff-hennigh-palermo-sarah
-
+doi_link: (camera-ready version pending)
 ---
 
 # $ABSTRACT

@@ -8,7 +8,7 @@ submission_type: Papers
 time: Friday 30th, 14:30-15:30h
 contributors:
 - person: $stiles-char
-
+doi_link: (camera-ready version pending)
 ---
 
 # $ABSTRACT
