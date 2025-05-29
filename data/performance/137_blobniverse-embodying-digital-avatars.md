@@ -28,4 +28,16 @@ possibilities of digital art making a special note on the history of procedural 
 # $ABSTRACT
 
 
+Blobinverse is a digital realm where fluid, self-morphing avatar come to life through
+raymarching and signed distance fields (SDFs). The performance explores the
+intersection of identity and technology evolving in space.
 
+Through live coding, I will interact with my avatar, manipulating its form and movements
+in real-time. This dynamic exchange between human intention and digital fluidity will
+highlight transformation and self-expression in virtual environments. The visuals will
+respond to code-based commands, inviting the audience into the process of inhabiting
+Blobinverse.
+
+Blending technical artistry with personal storytelling, this performance aims to challenge
+perceptions of identity, blurring the lines between the physical self and its digital
+counterpart in a constantly shifting, virtual world.
