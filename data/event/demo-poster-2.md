@@ -4,7 +4,7 @@ type: event
 status: ready
 event_type: Paper Session
 title: Audio-visual Livecoding and Specialized Tools and DSLs
-venue: Universitat Oberta de Catalunya (UOC) - Auditori
+venue: Universitat Oberta de Catalunya (UOC) - U0.3
 date_time: Thursday 29th, 14:30-15:30h
 schedule:
   -  item: $animatron-it-s-defs-all-the-way-down-live-coding-the-osc
