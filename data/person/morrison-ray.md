@@ -4,7 +4,6 @@ status: proof
 type: person
 first_name: Ray
 last_name: Morrison
-alias: Eye Measure
 affiliations:
 - Pattern Club Sheffield
 ---
