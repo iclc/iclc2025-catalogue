@@ -6,6 +6,7 @@ event: concert-8-laut
 type: performance
 submission_type: Performance
 time: Saturday, May 31, 22:20 - 22:50
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/310525-LAUT/Domenico%20Cipriani.mp4
 contributors:
 - person: $cipriani-domenico
 

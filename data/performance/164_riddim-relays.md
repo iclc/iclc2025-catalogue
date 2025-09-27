@@ -6,6 +6,7 @@ event: concert-7-la-nau
 type: performance
 submission_type: Performance
 time: Friday, May 30, 21:30 - 02:00
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/300525-LANAU/Roxanne%20Harris%20%2B%20Sol%20Sarratea.mp4
 contributors:
 - person: $harris-roxanne
 

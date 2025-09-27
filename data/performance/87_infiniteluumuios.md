@@ -6,6 +6,7 @@ event: opening-concert
 type: performance
 submission_type: Performance
 time: Tuesday, May 27, 18:00 - 20:30
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/270525-PHONOS/4%20-%20Chris%20Kiefer%2C%20Dimitris%20Kyriakoudis%20and%20Steve%20Symons-001.mp4
 contributors:
 - person: $kiefer-chris
 - person: $kyriakoudis-dimitris

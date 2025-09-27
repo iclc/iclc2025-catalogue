@@ -6,6 +6,7 @@ event: concert-3-wed-sala-beckett
 type: performance
 submission_type: Performance
 time: Wednesday, May 28, 18:00 - 21:30
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/280525-BECKETT/3-Jessica%20A.%20Rodri%CC%81guez-006.mp4
 contributors:
 - person: $rodriguez-jessica-a
 

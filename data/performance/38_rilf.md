@@ -6,6 +6,7 @@ event: concert-5-thu-sala-beckett
 type: performance
 submission_type: Performance
 time: Thursday, May 29, 18:00 - 21:30
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/290525-BECKETT/Rachel%20Devorah%20Rome-001.mp4
 contributors:
 - person: $rome-rachel-devorah
 

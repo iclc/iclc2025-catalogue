@@ -6,6 +6,7 @@ event: opening-concert
 type: performance
 submission_type: Performance
 time: Tuesday, May 27, 18:00 - 20:30
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/270525-PHONOS/1%20-%20Maia%20Francisco%20and%20Tim%20Cowlishaw-002.mp4
 contributors:
 - person: $francisco-maia
 - person: $cowlishaw-tim

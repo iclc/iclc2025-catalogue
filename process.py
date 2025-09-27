@@ -480,7 +480,10 @@ def render_stream_recording_url(item):
 
 def content_for_performance(item):
     body = get_body_chunk(item["body"], "$PROGRAM_NOTE")
-
+    video_url = ""
+    if item.get("video_url"):
+        video_url = f"<p style='margin-bottom: -5px;'>Recording:</p><center><video width='720' height='480' controls><source src='{item.get('video_url')}'>your browser doesn't support video</video></center><br/>"
+    
     proof_abstract = ""
     if PROOF_INCLUDE_ABSTRACTS:
         proof_abstract += "<h4>Abstract</h4>"
@@ -493,6 +496,7 @@ def content_for_performance(item):
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>
+        {video_url}
         <h4>Program Notes</h4>
         {transform_body(body)}
         {proof_abstract}
@@ -509,7 +513,7 @@ def content_for_installation(item):
 
     return f"""
         <p><strong>{build_contributors_list(item, ", ")}</strong></p>
-        <p class="list-header">Was shown at:</p>
+    <p class="list-header">Was shown at:</p>
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>

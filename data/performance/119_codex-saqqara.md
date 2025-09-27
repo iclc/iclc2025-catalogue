@@ -6,6 +6,7 @@ event: opening-concert
 type: performance
 submission_type: Performance
 time: Tuesday, May 27, 18:00 - 20:30
+video: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/270525-PHONOS/5%20-%20Francesco%20Dal%20Ri%CC%81%20and%20Francesca%20Zanghellini-004.mp4
 contributors:
 - person: $dal-ri-francesco
 - person: $zanghellini-francesca
