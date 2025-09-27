@@ -10,7 +10,6 @@ poster: poster_laut.png
 tickets_url: https://entradium.com/en/events/algo-noise
 schedule:
   -  item: $gate-dance
-  -  item: $trans-fail-combodagen
   -  item: $synthrospection-exploring-audio-feedback-in-live-coding
   -  item: $dialogues-of-feedback
   -  item: $galloping-the-mooflod
