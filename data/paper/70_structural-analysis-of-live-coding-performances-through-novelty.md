@@ -6,6 +6,7 @@ event: papers-5
 type: paper
 submission_type: Papers
 time: Friday 30th, 10h-11:30h
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/300525-UOC/Communities%20and%20Artistic%20Practices%20-%20MIR%20Methodologies.mp4
 contributors:
 - person: $dal-ri-francesco
 - person: $manenti-francesco

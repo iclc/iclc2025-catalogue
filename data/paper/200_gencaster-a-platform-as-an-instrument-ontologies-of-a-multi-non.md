@@ -6,6 +6,7 @@ event: papers-6
 type: paper
 submission_type: Papers
 time: Friday 30th, 12h-13:30h
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/300525-UOC/Collaborative%20Livecoding%20-%20Gencaster.mp4
 contributors:
 - person: $scheiba-dennis
 - person: $aubry-vinzenz

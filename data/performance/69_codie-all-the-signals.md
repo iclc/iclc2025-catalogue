@@ -5,6 +5,7 @@ title: Codie - All the Signals
 event: concert-7-la-nau
 type: performance
 submission_type: Performance
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/300525-LANAU/Kate%20Sicchio%20%2B%20Sarah%20Groff%20Hennigh-Palermo.mp4
 time: Friday, May 30, 21:30 - 02:00
 contributors:
 - person: $sicchio-kate

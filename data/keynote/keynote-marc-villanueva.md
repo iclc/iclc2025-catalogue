@@ -3,6 +3,7 @@ slug: keynote-marc-villanueva
 title: 'All the screen’s a stage. Coding as performance.'
 type: keynote
 status: proof
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/300525-UOC/All%20the%20screen%27s%20a%20stage.mp4
 contributors:
 - person: $villanueva-marc
 ---

@@ -3,6 +3,7 @@ slug: keynote-lu-wilson
 title: 'I am not dead yet'
 type: keynote
 status: proof
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/290525-UOC/I%20am%20not%20dead%20yet.mp4
 contributors:
 - person: $wilson-lu
 ---

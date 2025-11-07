@@ -3,6 +3,7 @@ slug: keynote-anna-xambo
 title: 'Liveness as an Open Work: An Ongoing Live-Coding Algorithmic Journey'
 type: keynote
 status: proof
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/280525-UOC/Keynote%20-%20Liveness%20as%20an%20open%20work.mp4
 contributors:
 - person: $xambo-anna
 ---

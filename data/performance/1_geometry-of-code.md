@@ -6,6 +6,7 @@ event: concert-6
 type: performance
 submission_type: Performance
 time: Friday, May 30, 17:00 - 18:00
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/300525-UOC/Temporality%20of%20shape%20-%20Geometry%20of%20code.mp4
 contributors:
 - person: $mclean-alex
 

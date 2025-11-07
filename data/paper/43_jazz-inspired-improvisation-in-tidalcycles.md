@@ -6,6 +6,7 @@ event: papers-4
 type: paper
 submission_type: Papers
 time: Thursday 29th, 12h-13:30h
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/290525-UOC/Specialized%20Tools%20and%20DSLs%20-%20Chromatic%20Inflexion.mp4
 contributors:
 - person: $herrou-agathe
 doi_link: https://doi.org/10.5281/zenodo.15527559

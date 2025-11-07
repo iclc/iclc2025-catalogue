@@ -6,6 +6,7 @@ event: papers-2
 type: paper
 submission_type: Papers
 time: Wednesday 28th, 12h-13:30h
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/280525-UOC/Speculative%20Futures%20-%20On%20Continuity.mp4
 contributors:
 - person: $groff-hennigh-palermo-sarah
 doi_link: (camera-ready version pending)

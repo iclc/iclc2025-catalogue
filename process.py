@@ -529,13 +529,17 @@ def content_for_paper(item):
     if item.get('doi_link'):
         doi_string = f"<p class='mt-4'>Publication: <a href='{item['doi_link']}'><strong>{item['doi_link']}</strong></a></p>"
 
+    video_url = ""
+    if item.get("video_url"):
+        video_url = f"<p style='margin-bottom: -5px;'>Recording:</p><center><video width='720' height='480' controls><source src='{item.get('video_url')}'>your browser doesn't support video</video></center><br/>"
+        
     return f"""
         <p><strong>{build_contributors_list(item, ", ")}</strong></p>
         <p class="list-header">Was presented at:</p>
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>
-        {render_stream_recording_url(item)}
+        {video_url}
         {doi_string}
         <h4>Abstract</h4>
         {transform_body(body)}
@@ -543,6 +547,11 @@ def content_for_paper(item):
 
 def content_for_keynote(item):
     body = item["body"]
+
+    video_url = ""
+    if item.get("video_url"):
+        video_url = f"<p style='margin-bottom: -5px;'>Recording:</p><center><video width='720' height='480' controls><source src='{item.get('video_url')}'>your browser doesn't support video</video></center><br/>"
+    
     # put in time and place
     return f"""
         <p><strong>{build_contributors_list(item, ", ")}</strong></p>
@@ -550,7 +559,7 @@ def content_for_keynote(item):
         <ul>
             <li>{render_associated_event(item)}</li>
         </ul>
-        {render_stream_recording_url(item)}
+        {video_url}
         <h4>Abstract</h4>
         {transform_body(body)}
     """

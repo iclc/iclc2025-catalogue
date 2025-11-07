@@ -6,6 +6,7 @@ event: papers-1
 type: paper
 submission_type: Papers
 time: Wednesday 28th, 10h-11:30h
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/280525-UOC/Live%20Coding%20Beyond%20Computers%20-%20Human-Robot%20Dance.mp4
 contributors:
 - person: $martin-patrick
 - person: $kaney-matthew

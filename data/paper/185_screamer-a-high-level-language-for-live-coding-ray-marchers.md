@@ -6,6 +6,7 @@ event: papers-3
 type: paper
 submission_type: Papers
 time: Thursday 29th, 10h-11:30h
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/290525-UOC/Audio-visual%20Livecoding%20-%20Screamer.mp4
 contributors:
 - person: $roberts-charlie
 doi_link: https://doi.org/10.5281/zenodo.15527465

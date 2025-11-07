@@ -6,6 +6,7 @@ event: concert-2
 type: performance
 submission_type: Performance
 time: Wednesday, May 28, 14:30 - 15:30
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/280525-UOC/Liveness%20in%20verse%20-%20Sun%20Rising.mp4
 contributors:
 - person: $toplap-athens
 

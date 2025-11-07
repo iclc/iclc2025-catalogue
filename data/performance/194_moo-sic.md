@@ -6,6 +6,7 @@ event: concert-4
 type: performance
 submission_type: Performance
 time: Thursday, May 29, 15:00 - 16:00
+video_url: https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/290525-UOC/Poetic%20Reality%20-%20MOO-SiC.mp4
 contributors:
 - person: $hutchins-charles
 - person: $knotts-shelly
